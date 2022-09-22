@@ -1,0 +1,136 @@
+
+I. GÝRÝÞ
+Kritik altyapý operatörleri mesai saatleri içerisinde
+rutin yaptýðý iþler ile meþgul olabilirler. Bu durum,
+ 
+operatörün dalgýnlýk veya yorgunluðuna da baðlý
+olarak merkezi sistemlerin yönetiminde oluþan
+uyarý veya hatalarýn gözden kaçmasýna sebep
+olabilir. Bir anlýk dalgýnlýk bile son derece
+ 
+olumsuz sonuçlar doðurabilir. Bu yönüyle konu,
+geçmiþ literatür çalýþmalarýnda da farklý
+boyutlarýyla ele alýnmýþtýr. Örneðin Dönmez vd.
+(2018), insan kaynaklý kaza ve felaket
+durumlarýnýn yorumlanabilmesi için veri odaklý
+araþtýrma stratejileri, kaza analiz araçlarý ile
+hatalarýn seviyeleri üzerinde durmuþ, çevresel
+faktörler arasýnda fizyolojik durumlardan
+bahsetmiþ ve insan kontrolünde olan her sistem
+için aksaklýk yaratabilecek sebepleri ortaya
+koymuþtur [4]. Duyar vd. (2016), insan hatalarý
+dýþýnda endüstriyel makinalarýn hatalarýnýn veya
+arýzalarýnýn da önceden tahmin edilebilir olduðunu
+ifade etmektedir. Bu amaçla izlenecek
+makinalarýn matematiksel modellenmesine ihtiyaç
+duyulmaktadýr [5]. Benzer þekilde Yýlmaz (2018)
+tarafýndan sunulan çalýþmada da yapay zekâ ve
+makine öðrenmesi ile otonom sistemlerin
+karþýlayacaðý ihtiyaçlardan ve endüstrilerin
+faydalanabileceði yararlardan bahsedilmiþ, daha
+akýllý hale getirilerek daha geliþmiþ otonom
+sistemlere sahip olunmasý durumunda çoðu insani
+iþlemlerin robotlar tarafýndan yapýlabileceði
+belirtilmiþtir [21]. Öte yandan Köse (2018) ise
+çalýþmasýnda, yapay zekâ çözümlerinin faydalý
+otonom sistemlerle birlikte endiþeleri de
+doðurduðundan bahsetmektedir. Bazý iþlemleri
+yapay zekâ sistemlerine býrakmanýn yanýnda insan
+denetimini içermesi gerektiðini savunmuþtur [11].
+Yorgunluk, uyku ve dikkatsizlik gibi bazý insana
+özgü durumlarýn tespit edilmesinde þüphesiz ki en
+önemli odak noktasý yüz ve bilhassa göz
+hareketlerinin takibidir. Eldem vd. (2017), kamera
+ve optik tarayýcý gibi araçlar kullanarak alýnan
+görüntülerin anlamlandýrýlarak faydalý bilgiler
+elde edilebileceðini ortaya koymakla birlikte
+görüntü iþleme için görüntünün alýnmasý
+sonrasýnda bazý yazýlým tabanlý iþlemlerden
+geçirilmesi gerektiðini belirtmiþtir. Bu amaçla ele
+aldýklarý OpenCV, EmguCV, AForge.NET
+kütüphaneleri gibi popüler açýk kaynak çözümler
+ile baþarýlý sonuçlar elde etmiþlerdir [6]. Eriþti
+(2010) tarafýndan sunulan çalýþmada da görüntü
+iþleme teknolojileri arasýnda en çok
+kullanýlanlardan biri  olan  OpenCV
+kütüphanesinin avantajlarýndan ve çalýþma
+mantýðýndan bahsedimiþtir.  OpenCV
+kütüphanesinin iþletim sistemlerinden baðýmsýz ve
+ücretsiz olarak kullanýlabilmesinin kullanýcýlar
+için geliþtirme sürecini kolaylaþtýrdýðý
+belirtilmektedir [7]. Omur vd. (2017) tarafýndan
+sunulan çalýþmada ise, göz hareketlerini izleme
+iþleminin tarihsel geliþiminden ve hareketleri
+incelerken kullanýlan  yöntemlerden
+bahsedilmiþtir. Web kullanýcýlarýnýn
+odaklandýklarý noktalarý tespit ederek daha anlamlý
+içeriklerin sunulabilmesi için önemli bir
+çalýþmadýr [15]. Benzer olarak Baþtuð vd. (2019)
+tarafýndan sunulan çalýþmada, göz hareketleri için
+göz takip cihazý kullanýlmýþ ve cihazda tutulan
+kayýtlardan kiþilerin okuma esnasýnda göz
+hareketleriyle ilgili analizler gerçekleþtirilmiþtir.
+Göz kýrpma sayýlarý ve göz hareketleri ile sesli ve
+sessiz okuma  arasýndaki farklar
+anlamlandýrýlmaya çalýþýlmýþtýr [2].
+Samtaþ vd. (2011) tarafýndan hazýrlanan çalýþmada
+görüntü iþleme teknolojisinin farklý uygulama
+alanlarý detaylýca deðerlendirilmiþtir [16].
+Özellikle göz ve yüz takibi uygulamalarýnýn
+sürücü hatalarýnýn önüne geçmek için geliþtirildiði
+çalýþmalar dikkat çekmektedir.   Örneðin
+Nennioðlu vd. (2018) tarafýndan sunulan
+çalýþmada, araç þoförünün refleksleri algýlama ve
+kontrol sistemleri arasýnda kurulan baðlantý
+sayesinde aksiyonun planlanmasý ve þoför
+müdahalesi olmadan aracýn kullanýmýnýn
+saðlanmasý üzerinde durulmuþtur [14]. Vural vd.
+(2018) ise çalýþmalarýnda, sürücü hatasý kaynaklý
+trafik kazalarýný önlemek için gerçek zamanlý
+görüntü iþleme kullanýlarak yorgunluk tespit
+sistemi örneði ile erken uyarý sistemi geliþtirmiþ ve
+bu amaçla Python dili ile göz hareketleri ve yüz
+okuma iþlemleri gerçekleþtirmiþtir [19]. Benzer
+olarak Liu vd. (2002) tarafýndan hazýrlanan
+çalýþmada, özellikle sürücü asistan sistemlerinde
+göz izleme ve okuma iþlemlerine ihtiyaç olduðu
+açýkça belirtilmiþtir. Göz izleme sayesinde sürücü
+ile ilgili yorgunluk seviyesi gibi bazý bilgilere
+ulaþýlabileceði ve asistanýn devreye girmesi
+saðlanarak bazý önlemlerin alýnabileceði
+gösterilmiþtir [13].
+Güncel çalýþmalarda artýk görüntü iþleme
+teknikleri ile birlikte yapay zekâ ve makine
+öðrenmesi gibi geliþmiþ tekniklerin de
+kullanýlarak daha kesin ve etkili çözümler
+oluþturulmaya çalýþýldýðý gözlenmektedir. Örneðin
+Yýlmaz (2019) tarafýndan hazýrlanan çalýþmada,
+göz hareketleri ile yapay zekâ sayesinde anlamlý
+sonuçlar çýkarýlmasý sonucunda  arama
+motorlarýnýn kullanýlabilirliðinin  artýrýlmasý
+amaçlanmýþtýr. Arama motorlarý kullanýlýrken göz
+hareketlerinin daha çok hangi alanlarda
+kümelendiðigözlemlenmiþtir. Çalýþma, göz
+hareketleri sayesinde gelecekte daha akýllý ve
+otonom çözümler ile etkileþim halinde olunacaðýný
+göstermektedir [19]. Kesici vd. (2018) tarafýndan
+hazýrlanan çalýþmada, insan kaynaklý hatalar
+ 
+sonucunda güç sistemlerinde yaþanabilecek
+risklerden bahsedilmekte ve çözüm önerisi olarak
+makina öðrenmesi ile iki farklý model eðitilerek
+oluþturulan bir karar mekanizmasý sunulmaktadýr
+[10].
+Açýkça görüldüðü üzere, özellikle kritik altyapý
+sistemlerinde anlýk bir aksaklýk veya hata, kitlesel
+sorunlara yol açabilir. Buna sebep olabilecek
+risklerden en önemlisi ise sistem operatörlerinin
+çoðu zaman mesai saatlerinde yaþadýklarý yüksek
+iþ temposu veya bedenen yaþadýklarý enerji
+düþüklükleri nedeniyle yorgunluk, dikkat
+daðýnýklýðý veya uyku gibi durumlar ile karþý
+karþýya kalabilmeleridir. Bu nedenle, sunulan bu
+çalýþmada, operatörün uyku veya yorgunluk
+belirtisi gösterdiði anda bir erken uyarý sistemini
+devreye alarak hatalarýn önüne geçilmesi
+amaçlanmýþtýr.

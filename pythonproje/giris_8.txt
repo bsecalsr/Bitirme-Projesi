@@ -1,0 +1,189 @@
+
+I. GÝRÝÞ
+ 
+Özellikle sosyal platformlar ve sensörler
+aracýlýðýyla oluþan ve yüksek bir hýzla artan
+büyük verilerle uðraþmak, baþta NoSQL veri
+tabanlarý olmak üzere çeþitli çekirdek
+teknolojilerin ve veri tabaný platformlarýnýn
+  
+  	
+  	
+  	
+   	
+  
+ 
+geliþtirilmesine yol açmýþtýr. Her ne kadar
+NoSQL veri tabanlarý büyük verilerin ortaya
+çýkmasýndan önce geliþmeye baþlasa da NoSQL
+veri tabanlarýnýn benimsenmesi büyük verilerin
+saklanmasý ve bu verilere Ýnternet ortamýnda
+ 
+	
+  
+eriþilmesi ihtiyacý ortaya çýkýncaya kadar
+gerçekleþmemiþtir. Her biri kendine özgü mimari
+tasarýma, sýkýþtýrma yöntemine, güvenlik
+özelliklerine, kümeleme ve ölçeklenebilirlik
+desteðine ve sorgu diline sahip birçok farklý
+NoSQL veritabaný ortaya çýkmýþtýr ve
+seçeneklerin çok olmasý ihtiyaca uygun NoSQL
+veri tabanýna karar verilmesini zorlaþtýrmaktadýr
+[1][2]. Piyasada 245'ten fazla farklý NoSQL
+veritabaný sistemi mevcuttur [3]. Bu nedenle,
+uygun veri tabanýný seçmek zor ve karmaþýk bir
+görevdir. Çünkü bu veri tabanlarý üzerinde sorgu
+iþleme hýzý, veri güvenliði analizi ve
+ölçeklenebilir bir ortamda kullanmaya hazýr olma
+gibi çeþitli faktörlerle ilgili incelemeler
+yapýlmalýdýr. Literatürde birçok çalýþmada
+performans, ölçeklenebilirlik ve diðer özellikler
+ile ilgili birçok NoSQL veri tabaný sisteminin
+karþýlaþtýrýlmasýna raðmen [4][5][6], NoSQL veri
+tabanlarýnýn güvenlik özelliklerini ve þifreleme
+performansýný birlikte inceleyen çalýþmaya
+rastlanmamýþtýr. Bu nedenle, bu çalýþma yaygýn
+olarak kullanýlan iki NoSQL veri tabanýnýn
+(MongoDB ve Cassandra) kapsamlý bir güvenlik
+ve performans analizini kapsamaktadýr [7]. Bu
+analiz sonucunda karar vericilere
+araþtýrmacýlara NoSQL veri
+güvenlik özellikleriyle ilgili
+çalýþmalarýnda yol göstermek ve NoSQL veri
+tabanlarýyla ilgili en önemli
+özelliklerini ortaya çýkarmak amaçlanmýþtýr.
+Bu çalýþmada, MongoDB 3.6.3 ve Cassandra
+3.11.1’in güvenliðinin çok düðümlü bir
+yapýlandýrmada ve iki adýmda analiz sonuçlarý
+sunulmaktadýr. MongoDB ve Cassandra'nýn tek
+düðümlü testi, her iki sistemin de performans ve
+iþlem gecikmeleri açýsýndan nerede durduðunu
+ortaya koymakla birlikte, böyle bir test sonucu
+bir küme yapýlandýrmasýndaki ayný veri
+tabanlarýnýn performansý için genelleþtirilemez.
+Bununla birlikte, NoSQL veri tabanlarý gerçek
+hayatta genellikle birden fazla sunucu üzerinde
+daðýtýk bir yapýda kullanýlmaktadýr. Bu nedenle,
+bu çalýþmada her iki veritabanýnýn performans
+testinin bir küme yapýlandýrmasýnda analiz
+etmenin gerekli olduðu düþüncesiyle çok
+düðümlü yapýlandýrma testi gerçekleþtirilmiþtir.
+Ýlk adýmda, her iki NoSQL veri tabanýnýn
+güvenlik özelliklerinin
+[8][9][10][11][12] seçilen on farklý ölçüte göre
+karþýlaþtýrmalý bir analizi gerçekleþtirilmiþtir.
+Ýkinci adýmda ise, Yahoo Cloud Serving
+Benchmark (sürüm YCSB-0.12.0) aracýný
+kullanarak her iki NoSQL veri tabanýnýn veri
+	
+  
+  	
+  	
+  	
+	
+  
+þifreleme ve þifre çözümleme performanslarý
+karþýlaþtýrýlmýþtýr [13].
+Bir uygulamada hangi NoSQL veri tabanýnýn
+kullanýlacaðýný belirleyen ilk faktör performans
+ise, bilgi güvenliði ikincil ya da eþ önemli faktör
+olarak kabul edilebilir.Ancak, veri
+tabanlarýndaki güvenliði belirlemek veya ölçmek
+için özel araçlar olmadýðýndan, bilgi güvenliði
+açýsýndan hangi veri tabanýnýn nispeten daha iyi
+olduðunu belirlemeye yarayan çeþitli güvenlik
+faktörlerini bilmek ve farkýnda olmak önemlidir.
+Buna ek olarak, veri tabanlarýnýn þifreleme
+performansý veri tabaný seçim sürecinde büyük
+bir öneme sahiptir. Çünkü þifreleme genellikle
+bir kaynak tüketim sürecidir. Bu süreçte veri
+tabaný altyapýsý gelen tüm veri akýþlarýný
+þifrelemek ve þifreli sorgularý çözmek için sistem
+kaynaklarýný yoðun bir þekilde kullanýr. Bu
+nedenle, her iki veri tabanýnýn þifreleme
+motorunun karþýlaþtýrmalý performans testini
+gerçekleþtirmek literatüre önemli  katký
+saðlayabilir.
+Büyük verilerin ortaya çýkmasýyla NoSQL veri
+ve tabanlarýnýn geniþ bir þekilde benimsenmesi,
+tabanlarýnýn  NoSQL veri tabanlarýnýn yapýlandýrýlmamýþ
+inceleme  verileri, ölçeklenebilirliði ve performansý etkili
+bir þekilde  yönetme yeteneðinden
+güvenlik kaynaklanmaktadýr. Ancak, NoSQL veri tabaný
+geliþtiricilerinin çoðu, baþlangýçta güvenlik
+pahasýna performansa odaklanmýþtýr [8][14]. Bu
+nedenle, NoSQL güvenliði bazý araþtýrma ve
+incelemelere konu olmuþtur. Örneðin, Cassandra
+ve MongoDB'nin veri þifreleme, kimlik
+doðrulama, yetkilendirme, sorgu dili ve
+denetleme gibi güvenlik özelliklerini incelemiþtir
+[8]. Araþtýrmacýlar bu çalýþmada her iki veri
+tabanýnýn da hizmet reddi saldýrýlarý ve çok basit
+yetkilendirme mekanizmalarýna karþý savunmasýz
+olduðunu ve zayýf kimlik doðrulama ile zayýf
+veri þifreleme özelliklerine sahip olduðu
+sonucuna varmýþtýr. Buna ek olarak, 2014 yýlýnda
+altý NoSQL veri tabanýnýn beþ güvenlik özelliði
+kullanýlarak analiz edildiði bir baþka çalýþma
+yayýnlanmýþtýr [9]. Çalýþma sonuçlarý Tablo 1'de
+sunulmuþtur. Araþtýrmacýlar, NoSQL veri
+tabanlarýnýn  güvenlik özelliklerinin
+geliþtirilmeye ihtiyacý olduðu sonucuna
+literatürden varmýþlardýr.
+2015'te üç NoSQL veri tabaný ve iki iliþkisel veri
+tabanýnýn karþýlaþtýrýldýðý çalýþmada, gizlilik,
+bütünlük ve kullanýlabilirlik açýsýndan güvenlik
+analizi yapýlmýþtýr [15]. Araþtýrma, NoSQL veri
+ 
+	
+  
+tabanlarýnýn güvenlik konusunda yüksek hýzla
+geliþtiði sonucuna varmýþtýr. Ayrýca, açýk
+kaynaklý NoSQL veri tabanlarýnýn hýzla
+çoðalmasý ve yaygýnlaþmasýyla, güvenliðin
+iliþkisel veri tabanlarýyla karþýlaþtýrýlabilir bir
+seviyeye ulaþtýðýný öne sürmüþlerdir. Son olarak,
+2017'de yayýnlanan bir çalýþmada araþtýrmacýlar,
+ NoSQL veri tabanlarýndaki çeþitli güvenlik
+  kaygýlarýný daha da iyileþtirmek için veri
+maskeleme tekniðini önermiþlerdir [16]. 
+Veri maskeleme, veri tabanlarý içinde hassas
+veya gizli verilere eriþimi engelleyen bir
+güvenlik yöntemidir. Bu, gerçek verileri gerçek
+olmayan ancak uygun verilerle deðiþtirerek
+gerçekleþtirilir. Bu yöntemin amacý, bir
+organizasyonun içinde ve dýþýnda hassas
+bilgilerin sýzmasý ve ele geçirilmesi riskini
+azaltmaktýr. Araþtýrmacýlar, bu yöntemin NoSQL
+veri tabaný güvenliðinin artýrýlmasýna anlamlý bir
+katký saðladýðýný öne sürmüþlerdir.
+Literatürde NoSQL veri tabanlarýnýn baþlýca
+avantajlarýnýn yüksek performans, ölçeklendirme
+kolaylýðý, esneklik ve að trafiðini azaltma ve
+dolayýsýyla að maliyetinde azalma olduðu
+belirtilmektedir [17]. Ancak, gittikçe daha hassas
+olan veriler NoSQL veri tabanlarýnda
+depolandýðýndan, davetsiz misafirlerden gelen
+eriþim çabalarý veri tabanýnýn güvenliðini giderek
+artan bir endiþe haline getirmektedir. Bu nedenle,
+NoSQL veritabaný ortamlarýnýn güvenlik
+sorunlarý, bütünlüðün korunmasý ve eriþim
+kontrolü dahil olmak üzere birden fazla alanda
+incelenmelidir. Bu nedenle, bu çalýþmada
+kullanýlan güvenlik analiz ölçütleri NoSQL veri
+tabanlarý için bütüncül bir analiz olanaðý sunma
+hedefiyle belirlenmeye çalýþýlmýþtýr. Makalenin
+geri kalan bölümleri þu þekilde düzenlenmiþtir: 2.
+Bölümde kullanýlan deneysel metot sunulmuþtur.
+3. Bölümde analiz sonuçlarý verilmiþtir. Son
+olarak, 4. Bölümde ise elde edilen sonuçlar
+literatürde yapýlan önceki çalýþmalarýn sonuçlarý
+	
+   	
+  
+  	
+  	
+  	
+  
+ile karþýlaþtýrýlmýþ ve öneriler üzerinde
+durulmuþtur.

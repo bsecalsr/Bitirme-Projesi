@@ -1,0 +1,86 @@
+
+I.GÝRÝÞ (INTRODUCTION)
+   Bilgisayar ve haberleþme teknolojilerinde
+   yaþanan baþ döndürücü geliþmeler ve özellikle
+   internetin katalizör etkisi ile insanlarýn çalýþma,
+   iletiþim kurma ve her türlü günlük ihtiyaçlarýný
+karþýlama biçimi sürekli dönüþüm halindedir
+[1]. Günümüzde Ýnternet artýk her alanda
+karþýmýza çýkmakta olup ve günlük yaþamda
+çok önemli bir yere sahiptir [2]. Geliþen
+teknolojiler sayesinde neredeyse her zaman ve
+her yerden Ýnternete eriþim saðlanmaktadýr [3].
+ 
+Çünkü özellikle son 5 yýllýk süreç dikkate
+alýndýðýnda Mobil ses ve data ile Ýnternet ve
+Sabit datanýn pazardaki payý giderek
+artmaktadýr [4]. Bu nedenle günümüzde
+Ýnternet tabanlý cihazlar hayatýmýzda olduðu
+sürece zararlý yazýlým tehdidi ile karþýlaþmasý
+kaçýnýlmaz bir gerçek olarak karþýmýza
+çýkmaktadýr [5].
+Cihazlarýn kendi arasýndaki haberleþmesi
+olarak bilinen Nesnelerin Ýnterneti’nin
+(Internet of Things-IoT) giderek yaygýnlaþmasý
+ve bu sistemlerin kablosuz algýlayýcý aðlara
+dayanan bir teknoloji olmasý [6], Bilgi
+Güvenliði konusuna ayrý bir boyut
+getirmektedir. Çünkü Nesnelerin internetinin
+temel amacý, insan yardýmý olmaksýzýn
+nesnelerin kendi aralarýnda bilgi
+alma/vermesini temin etmektir [7].
+Yazýlým ve elektronik alanlarýndaki
+geliþmelerin giderek artmasýyla adreslenebilir
+cihaz/nesne sayýsýnda çok ciddi artýþlar
+meydana gelmiþtir ve artan bir ivmeyle bu artýþ
+hýzla devam etmektedir [8]. Nesnelerin
+Ýnterneti çeþitli iletiþim ve haberleþme
+protokolleri sayesinde birbiri ile iletiþim kuran
+nesnelere ait verileri toplayýp analizini yaparak
+nesneleri kontrol eden bir aðdýr [9]. Bu aðda
+bulunan cihazlar ve algýlayýcýlar insan-makine,
+makine-makine (M2M) iletiþimi kurabilen
+organizmalardýr [10].
+Nesnelerin Ýnternetinde üreticiler farklý
+teknolojiler
+teknolojilerden bazýlarýnda bulunan güvenlik
+açýklarý [11] nedeniyle Nesnelerin Ýnternetinde
+uçtan uca güvenli haberleþme
+saðlanamamaktadýr [12]. Uçtan uca güvenli
+haberleþmenin saðlanmasý için söz konusu
+güvenlik açýklarýnýn tespit edilip önlemler
+alýnmasý gerekmektedir [13]. Bu durum, siber
+saldýrýlarýn bu tür sistemlere daha kolay ve
+kontrolsüzce yapýlmasýna  olanak
+saðlamaktadýr. Bu arada yaygýnlaþan akýllý
+nesneler, bunlarýn Ýnternete baðlý olarak
+birbiriyle iletiþim kurabilmesi, bunlarýn
+kolaylýkla çeþitli siber saldýrýlara maruz
+kalabilmelerini de beraberinde getirmektedir
+[14].
+Bu deðerlendirmeler doðrultusunda yapýlan
+çalýþmada öncelikle deðiþik kademelerde
+yapýlan Siber Saldýrýlar ve bunlara karþý alýnan
+Siber Güvenlik Önlemleri ile ilgili bilgi
+verilmiþ ve özellikle III. Bölümde yakýn
+süreçte yaþanan bazý önemli Siber saldýrýlar ile
+konunun önemine dikkat çekilmiþtir. Çünkü
+tarihsel süreç, bu saldýrýlarýn sayýsýnýn ve
+boyutunun giderek artacaðý yönünde bir eðilim
+göstermektedir. Bu süreçte özellikle
+uluslararasý düzeyde yapýlan saldýrýlarýn etkisi
+ve verdiði zararlarýn boyutunun giderek arttýðý
+ve konvansiyonel saldýrý araçlarýnýn verdiði
+zararlardan çok daha olumsuz sonuçlar
+doðurduðu gözlemlenmektedir.
+IV Bölümde de bu saldýrýlara karþý Ülke
+bazýnda alýnabilecek önlemler ele alýnmýþ ve
+dünya uygulamalarýndan örnekler verilerek,
+siber saldýrýlara karþý makro baz’da
+yapýlabilecek çalýþmalar detaylý olarak
+deðerlendirilmiþtir.
+Ortaya konulan tüm veriler Sonuç bölümünde
+deðerlendirilerek ülke güvenliðimizde
+alýnmasýnda fayda mütalaa edilen siber
+güvenlik önlemleri uygulayýcýlarýn dikkatine
+sunulmuþtur.

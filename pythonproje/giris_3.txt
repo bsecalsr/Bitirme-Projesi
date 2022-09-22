@@ -1,0 +1,140 @@
+
+I.GÝRÝÞ
+Günümüzde geliþen saldýrý teknikleri nedeniyle Linux
+sistemlerin savunmasý büyük önem arz etmeye
+baþlamýþtýr. Temel bilgisayar bilgisine sahip kiþiler bile
+internette çeþitli fiyatlarda satýlan araçlarý kullanarak
+yüksek bilgi birikimi ve beceri isteyen saldýrýlarý
+gerçekleþtirebilmektedir. Bu tarz uygulamalarýn bir
+pazarý olmasý nedeniyle her geçen gün daha da
+geliþmekte ve sistemlerin yeni zafiyetleri tespit edilip
+bu saldýrý araçlarý güncellenmektedir. Hal böyle iken
+Linux sunucu sistemlerine yapýlan saldýrýlarýn tehdit
+riski daha da artmýþtýr. Siber saldýrganlarýn öncelikli
+ 
+hedefi bilgi sistemini ele geçirmektir. Bu açýdan akla
+gelen ilk saldýrý kaba kuvvet (brute force) saldýrýlarýdýr.
+Bu saldýrýlarýn Linux sistemlere yönelik yapýlanýna
+SSH kaba kuvvet saldýrýsý da denmektedir. Sistem
+parola ile korunuyorsa kaba kuvvet saldýrýsýyla þifrenin
+kýrýlmasý gereklidir. Bu amaç için daha önceden
+hazýrlanmýþ sayýlar, harfler ve özel karakterler bulunan
+bir “Pass List” hazýrlanýr. Þifreye ulaþmak için
+denemeler yapýlýr ve doðru þifreyi bulana kadar devam
+edilir [1, 2]. Þifre tespitine yönelik gerçekleþtirilen bir
+saldýrý olmasýna raðmen artçý etkileri ile servis reddine
+sebebiyet vermektedir. Yeteri kadar güvenli bir þifre
+ 
+kullanýlmamasý halinde yüksek baþarý oranlarýna
+sahiptir.
+Kaba kuvvet saldýrýlarý da dâhil olmak üzere siber
+tehditlerin tespiti ve önlenmesinin önemi gün geçtikçe
+artmakta ve literatürde önemli çalýþmalar
+sunulmaktadýr.
+- [3] no.lu çalýþmada, mahrem bilgilerin savunmasý
+- [2]’de, bal küpü sistemleri ile saldýrý tespit ve
+- [4]’te, geleneksel saldýrý tespit sistemlerinin
+- [5]’te, web sunucu günlük (log) kayýtlarýný
+- [1]’de, kaba kuvvet saldýrýlarýnýn tespiti ve
+Linux sistemlerinde, SIEM yazýlýmlarý anlýk saldýrý
+tespiti ve saldýrý raporlarý oluþturarak sistem
+yöneticisine tehdit istihbaratý saðlayabilmektedir.
+Ayrýca daðýtýk halde olan kayýtlarý bir yerde toplayarak
+ve oluþturulan mantýksal kurallarý kullanarak gerçek
+zamanlý korelasyon yapýlabilir ve normalde tespit
+edilemeyen güvenlik olaylarý tespit edilebilir [6]. SSH
+kaba kuvvet saldýrýlarýnýn tespiti her ne kadar kod
+betikleri ile yapýlabilse de bu tespit eksik kalmaktadýr.
+Dolayýsýyla SIEM sistemleri ile iliþkisel ve anlýk tehdit
+istihbaratý saðlayan bir sistem kullanýlmalýdýr.
+Siber güvenliðin bir diðer önemli boyutu, kablosuz
+aðlardan gelen saldýrýlardýr. Günümüzde kablolu
+internet aðlarýnýn kullanýmý oldukça düþmüþtür.
+Kablosuz aðlar ise yapýsý gereði bazý güvenlik
+açýklýklarý barýndýrmaktadýr. Saldýrganlar, bu açýklýklarý
+kullanarak aðdaki veri paketlerinden bilgileri
+çalabilmektedirler. Radyo dalgalarý yayan eriþim
+noktasý, kablosuz aða dâhil olan kullanýcýlara veri
+paketlerini iletmektedir ama aða dâhil olmayan
+bilgisayarlar da bu paketlere eriþebilmektedir [7]. Bu
+duruma karþý þifreleme algoritmalarý geliþtirilmiþtir.
+Fakat geliþen saldýrý teknikleri ile eski algoritmalar
+güvensiz hale gelmiþtir. Güncel þifreleme teknikleri
+olan WPA2 ya da WPA+TKIP (Temporal Key Integrity
+Protocol) kullanýlmasý tavsiye edilmekle birlikte
+bunlarýn kimlik doðrulama saldýrýlarýna karþý açýk teþkil
+için saldýrý tespit sistemlerinin vazgeçilmez hale
+geldiði ifade edilmiþtir.
+aðlara hizmet aksatma saldýrýsý yapýlabilmesine yol
+önleme sistemleri arasýnda karþýlaþtýrmalar
+yapýlmýþ ve daha yüksek koruma güvenliði gerekli
+olan ortamlar için Bal küpü sistemleri önerilmiþtir.
+Hatta daha önce hiçbir þekilde bilinemeyen
+sýfýrýncý gün açýklýklarýna karþý dahi yüksek
+etkileþimli dinamik bal küpü sistemler ile savunma
+ve tespit çalýþmalarý yapýlabileceði
+vurgulanmaktadýr.
+uzun süre güvenlik saðlayamamaktadýr [7].
+eksikleri ve buna karþý yeni bir yapay zekâ destekli
+tespit sistemi yaklaþýmý anlatýlmaktadýr. Yapay
+zekâ destekli denetimin kontrol edilen sistemdeki
+olaðan dýþý hareketlerin etkilerini takip ederek
+geliþen saldýrý tekniklerine karþý daha isabetli
+kararlar alýnmasý amaçlanmýþtýr.
+için kablosuz að eriþim noktasýnýn görünürlüðünün
+inceleyerek saldýrý izlerini ve anomali hareketlerini
+kontrol etme mantýðý üzerine kurulmuþ bir saldýrý
+tespit sistemi sunulmaktadýr.
+saldýrýlarý olduðu belirtilmiþ ve günümüzde bu
+önlenmesi için örnek bir olay incelenmiþ ve
+saldýrýya uðramýþ bir bilgisayarýn Syslog verileri
+incelenerek saldýrý izlerinin tespit edilebileceði
+ifade edilmiþtir. Günlük kayýtlarý silinmiþ bir
+geçmiþ saldýrýnýn tespiti için ise FTK Imager
+programý ile disk imajlarý alýnarak ve Access Data
+Forensic Toolkit programý kullanýlarak saldýrý
+izleri tespit edilmiþtir.
+türlerinin önemli tehditler oluþturduðu ortaya
+konulmuþtur. Ayrýca bahsedilen koruma protokollerini
+kullanan kablosuz  aðlarýnda  802.11
+Associate/Authenticate Taþmasý Saldýrýsý, 802.11
+Beacon Taþmasý Saldýrýsý, 802.11 Deauthenticate
+Taþmasý Saldýrýsý karþýsýnda korumasýz olduðu ifade
+edilmektedir
+[11] nolu çalýþmada, kablosuz að güvenliðinde yapýlan
+saldýrýlarýn tespit edilmesinin oldukça güç olduðu ve
+bunun için að üzerindeki bir bilgisayardan að trafiðinin
+analiz edilmesi gerektiði belirtmektedir. [12]’de,
+kablosuz aða dâhil olan bir saldýrganýn HTTP üzerinden
+akmakta olan internet trafiðindeki verileri elde
+etmesinin mümkün olduðu ifade edilmektedir. Her ne
+kadar HTTPS protokolü bu saldýrýlara karþý korusa da
+web uygulamalarýnýn kullandýklarý API sistemlerinde
+yeterli güvenlik tedbirleri olmayabileceði fark
+edilmiþtir. [13]’te, Scapy ile kablosuz aðda paket
+manipülasyonu incelemesi yapýlmaktadýr. Bu aracýn, að
+üzerindeki birçok paketi yakalayabildiði, istenmeyen
+ 
+kaynaklara paket trafiklerini kesebildiði ya da
+deðiþtirebildiði, WEP þifrelemesi kullanan güvenli
+aðda paket içeriklerini görüntüleyebildiði ancak gerçek
+zamanlý çalýþmalarda yavaþ kaldýðý ve daha fazla hafýza
+kullanýmýna sebep olduðu belirtilmektedir. [14]’te,
+IPSec özelliðinin IPv4'te isteðe baðlý olmakla birlikte
+IPv6 da zorunlu olduðu, ortak bir iþleyiþ içinde
+olduklarý için güvenlik açýðý oluþtuðu, bu durumun
+kablosuz að trafiðinde veri gizliliðini riske attýðý ve
+verilerin dinleme saldýrýsýna karþý açýk hale geldiði
+belirtilmektedir.
+Yukarýda özetle verilen bilgi ve gereksinimlerden
+dolayý bu çalýþmada kablosuz aðlara yapýlan saldýrýlar,
+Linux tabanlý sunucu sistemlerine yapýlan SSH kaba
+kuvvet saldýrýlarý ve anlýk saldýrý tespit raporlarý
+oluþturma sürecinde yaþanan problemler ele alýnmýþtýr.
+Literatürde benzer çalýþmalar bulunmaktadýr. Fakat
+bunlarýn büyük bir kýsmýnýn teorik çalýþmalar olduðu
+görülmüþtür. Bu makalede ise bahsedilen saldýrýlarýn
+tespiti ve önleme yöntemleri uygulamalý olarak test
+edilmiþtir. Elde edilen sonuçlar ve bulgular
+doðrultusunda yorumlar yapýlmýþ ve bazý kritik
+önerilerde bulunulmuþtur.

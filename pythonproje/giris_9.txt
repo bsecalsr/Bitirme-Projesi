@@ -1,0 +1,115 @@
+
+I. GÝRÝÞ 
+Günümüz teknoloji dünyasýndaki üretilen veri
+miktarýndaki müthiþ artýþ hýzý, bulut ortamýnda
+verilerin saklanmasýný gerekli kýlmaktadýr.
+Verilerin bulut ortamýnda saklanmasý bir bulut
+veri kaynaðý yaratýlmasý ile baþlamaktadýr. Bu
+veri kaynaðý, bulut ortamýnda bulunan veri
+nesnesinde gerçekleþtirilen “veri oluþturma” ve
+iþlemlerin geçmiþini kaydeden “meta verileri”
+bileþenlerinden oluþmaktadýr [1]. Verilerin bulut
+ortamýnda saklanmasý güvenlik sürecinin etkin
+kullanýmýný gerektirmektedir. Kiþiye ait hassas
+verilerin güvenliðinin saðlanmasý önemli hale
+gelmektedir.
+Bulut ortamýnda tutulacak hassas verilerden birisi
+de medikal verilerdir. Medikal verilerin güvenliði
+açýsýndan bakýldýðýnda kiþisel verilere ait gizlilik
+	
+  
+  
+sorunlarýný çözümleyen çeþitli çözüm önerileri
+literatürde sunulmuþtur. Bu çözümlerden birisi
+veri anonimleþtirme olarak isimlendirilmiþtir.
+Veriler anonim hale getirilerek tanýmlanabilir
+bilgilerin korunmasý saðlanmaktadýr [2]. Bu
+süreçte kiþiye ait veriler, hassas verilerden ayrý
+saklanarak veriye eriþim, kontrollü hale
+getirilmektedir [3]. Hassas verilere eriþim
+kontrolü ise hassas verilerin daðýlýmýný belirleyen
+“yakýnlýk derecesi” parametresi ile
+belirlenmektedir [4]. Bir diðer yaklaþým ise
+verileri paylaþmadan önce hesaplama iþlemine
+tabi tutarak þifreleme esasýna dayanmaktadýr.
+Þifrelenen verinin sahip olduðu örüntüyü bilen
+kullanýcýlar, kullanýcý haklarýna göre belirlenen
+belirli sorgularý çalýþtýrabilmektedir [5].
+Alýnan bu önlemler güvenlik noktasýnda denetim
+mekanizmasý saðlasa da medikal verileri içeren
+ 
+ 
+meta verilerdeki hassas bilgilerin korunmasý
+gerekmektedir. Bulut ortamýnda oluþturulacak
+veriler, sahteciliðine karþý savunmasýz olduðu
+ilgili çalýþmada tespit edilmiþtir [6]. Bu durum
+veri güvenilirliðini önemli hale getirmektedir. Bu
+verilerin güvenliðinin saðlanarak bulut ortamýnda
+saklanabilmesi günümüzde  blok zinciri
+mimarisiyle mümkün olabilmektedir [7].
+Blok zinciri, finans sektöründe kullanýlan eþler
+arasý daðýtýlmýþ blok teknolojisi üzerine inþa
+edilmiþtir. Bir kullanýcýnýn kimliðinin bir að
+içinde nasýl tanýmlandýðýna baðlý olarak izin
+verilen ve izinsiz blok zinciri olarak iki farklý
+türde tasarlanabilmektedir. Ýzinsiz bir sistem
+tasarýmýnda katýlýmcýlarýn kimliðinin sahte veya
+anonim olmasý önem arz etmemektedir. Bu
+tasarýmda her kullanýcý blok zinciri mimarisine
+yeni bir blok ekleyebilmektedir [8]. Diðer
+taraftan izin verilen bir blok zincir tasarýmýnda ise
+bir kullanýcýnýn kimliði, bir kimlik saðlayýcý
+tarafýndan kontrol edilmektedir. Bu tasarýmda
+kimlik saðlayýcýsýnýn rolü kritik öneme sahiptir.
+Bu saðlayýcý, að içinde eriþim kontrolünü ve
+kullanýcýnýn uzlaþmaya katýlma haklarýný koruma
+görevini üstlenmektedir. Ayrýca yeni bir bloðu
+onaylamak için güvenilir olmasý zorunluluðu
+bulunmaktadýr [9].
+  
+Blok zinciri teknolojisini kullanarak
+oluþturulacak bir bulut ortamý, veri kaynaðý ile
+verilerin gizliliðini ve kullanýlabilirliðini güvenli
+hale getirilebilmektedir [10]. Bu süreç ile proaktif
+siber güvenliðe katký saðlanmaktadýr [11].
+Çalýþmada medikal verileri içeren bir blok zinciri
+mimarisi geliþtirilmiþtir. Geliþtirilen yapý Þekil
+1’de verilmiþ olup, blok zincirinde her bir hastaya
+ait veriler bir blok içerisinde tutulmaktadýr.
+Verilerin eklenmesi ya da güncellenmesi
+durumunda bloklarýn “hash”
+deðiþmektedir. Bu durum içeriði deðiþen bloktan
+sonraki zincir içerisindeki bloklarýn “hash”
+bilgilerinin güncellenmesi ile son bulmasý
+	
+  
+  
+	
+  
+gerekmektedir.Blok zinciri mimarisinde
+Madencilik süreci olarak isimlendirilen iþlem ile
+zincirdeki bloklar taranmakta ve “hash” bilgileri
+SHA algoritmasý ile onaltýlýk kodlara
+dönüþtürülerek güncellenmektedir. Bu süreç ile
+blok zinciri doðrulanmasý yapýlmaktadýr.
+Doðrulama süreci ve madencilik iþlemi orta
+noktadaki kontrol bloðu ile saðlanmaktadýr. Bu
+blok üzerinden birbirine baðlý olan bloklarýn hash
+kodlarý eþlenerek zincir oluþmaktadýr. Kontrol
+bloðu ile ayný zamanda veri eklenmesi ve
+güncellenmesi yapýlmaktadýr. Ayrýca kontrol
+bloðu sayesinde doðrulama iþlemi ile araya
+eklenebilecek ya da saldýrý amaçlý içeriði
+güncellenecek bloklarýn doðrulamasý
+yapýlmayacak olduðundan bulut ortamýndaki
+verilerin korunmasý noktasýnda siber güvenliðe
+destek olunmaktadýr. Ayrýca kontrol bloðu ile
+blok içerisindeki verilerin okunmasý hasta, uzman
+ya da yönetim rollerine göre eriþim hakký
+saðlanmaktadýr. Blok zincirine özel bir baþlangýç
+noktasý olduðundan bu bilgiyi bilmeyen bir
+kullanýcý, zincire müdahale edememektedir.
+Ayrýca bloða ait zaman damgasý bilgisi ile “hash”
+içeriði güncellendiðinden verilerin oluþma
+zamanýna göre de bir güvenlik süreci geliþtirilen
+yöntem ile saðlanmaktadýr.

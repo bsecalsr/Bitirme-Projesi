@@ -1,0 +1,242 @@
+
+I. GÝRÝÞ
+Biliþim teknolojileri ve internetteki geliþmeler son
+hýzla ilerlemektedir. Bununla birlikte bu alanda
+iþlenen suç sayýlarý hýzla artmakta ve her geçen gün
+farklý þekillerde çeþitli suçlar iþlenmektedir. Böylece,
+gerek günlük gerekse mesleki hayatýmýzý önemli
+ölçüde kolaylaþtýran internet ve teknoloji ayný
+zamanda yeni hukuki düzenlemeleri de zorunlu kýlan
+bir problem alaný olarak ortaya çýkmýþtýr. Gerçekten
+de bazý hukukçularýn karþýlaþýlan sorunlarýn boyutunu
+anlatmak için interneti ‘Vahþi Batý’ya benzettikleri
+görülmektedir [1]. Çünkü bu sanal ortam Vahþi
+Batý’da olduðu gibi sunduðu kolaylýklar ve fýrsatlarla
+suç iþlenmesini son derece kolaylaþtýrmakla birlikte
+suçlunun takibinin de yapýlamadýðý bir ortam
+oluþturmaktadýr. Ýnternet ortamýnýn vahþi batýdan farký
+ise sanal alemde olmasýdýr. Oysa bu sanal alemde
+ 
+iþlenen suçlarýn maðdurlarýnýn karþýlaþtýðý zararlar ise
+son derece gerçek ve acýmasýzcadýr [1].
+Global düzeyde biliþim teknolojileri ve internet
+geliþmeleri ile ülkemizdeki teknolojik geliþmelerin
+hangi düzeyde olduðu kýyaslamasýna girmeksizin bu
+kýyaslamanýn hukuki açýdan deðerlendirilmesi
+gerekirse, ülkemizin biraz geride olduðu özeleþtirisi
+yapýlabilecektir. Ankara Üniversitesi Rektörlüðü,
+Ankara Barosu, Türk Patent Enstitüsü ve WIPO
+(World Intellectual Property Organization) iþbirliðiyle
+12.2.2018 tarihinde Ankara Üniversitesi Rektörlüðü
+100. Yýl Konferans Salonunda “Yapay Zeka, Endüstri
+4.0  ve Fikri Mülkiyet Hukuku Zirvesi”
+gerçekleþtirilmiþtir. Bu zirve, konusu itibariyle
+ülkemizde gerçekleþtirilen ilk zirvedir. Bu zirvede,
+Avrupalý akademisyenlerin yaptýðý sunumlarda,
+teknolojik geliþmeler karþýsýnda, Avrupa ülkelerinde
+hukuk dünyasýný bu konularda hýzlýca revize etmek
+ 
+için çalýþmalar yapýldýðý ve konunun tartýþýldýðý
+görülmüþtür. Yine benzer haklara yönelik bir tartýþma
+da, insandýþý varlýklarýn telif hakký sahibi olup
+olamayacaðý konusunda ABD yargýsýnda bir dava
+açýlmasý üzerine olmuþtur. Bu dava, basýnda da yer
+aldýðý þekliyle ‘Monkey Selfie’ davasýdýr. Bu davanýn
+konusundan kýsaca bahsetmek gerekirse, her þey bir
+doða fotoðrafçýsý olan David Slater’in Endonezya’da
+bir milli parkta, bir süreliðine fotoðraf makinesini
+sahipsiz býrakmasý üzerine yaþanmýþtýr. Fotoðraf
+makinesini gören, nadir bir Tepeli Makak Maymunu
+cinsi olan Naruto fotoðraf makinesinin kurulu olduðu
+tripotun üzerine çýkarak makinenin deklanþörüne
+basmýþ ve kendi özçekimini yapmýþtýr. Daha sonra bu
+fotoðraflarýn yayýmlanmasý üzerine, PETA (Merkezi
+ABD’de bulunan Dünya’nýn en büyük hayvan haklarý
+organizasyonu) ise 2015 yýlýnda Naruto isimli
+maymun adýna Kaliforniya’da  dava açarak
+fotoðraflardan elde edilen telif gelirinin Naruto’ya ait
+olacaðýna hükmedilmesini istemiþtir. Ýlk derece
+mahkemesinde, Naruto’nun dava açamayacaðý,
+davaya devam edemeyeceði gerekçesiyle açýlan
+davanýn reddine karar verilmiþtir. PETA, davayý
+temyiz ederek 9. Temyiz Mahkemesi’ne taþýmýþtýr.
+Ancak karar aþamasýnda taraflarýn uzlaþmasýyla dava
+sonuçlanmýþ olup anlaþmanýn tam içeriði
+bilinmemekle birlikte, Ýngiliz fotoðrafçý David
+Slater’in fotoðraftan elde edilecek telif gelirlerinin
+%25’ini Naruto’nun yaþadýðý maymun tapýnaðýna
+ödeme taahhüdünü kabul ettiði öðrenilmiþtir [2]. Bu
+davanýn, ABD yargýsýnýn insandýþý varlýklarýn
+haklarýna ve sorumluluklarýna bakýþýný yansýtmasý
+açýsýndan, her ne kadar sona erme þeklinin biraz hayal
+kýrýklýðýna yol açtýðý söylenebilse de, önemli bir
+yargýlama olduðunu belirtmek gerekir. Bu çerçevede,
+biliþim teknolojilerinin baþ döndürücü hýzda geliþiyor
+olmasýyla birlikte yeni suç ve suçlu türleriyle de
+karþýlaþmaktayýz. Hukuki altyapýnýn bu geliþmelere
+cevap verememesi ise çok büyük sorunlarý
+beraberinde getirecektir. Bu nedenle biliþim
+teknolojileri ve internetin geliþimi ayný zamanda
+hukuki mevzuatýn da bu geliþmelere ayak uydurmasýný
+elzem kýlmaktadýr.
+Öncelikle, çalýþmanýn konusu hakkýnda yaþanan
+kavram kargaþasýný zikrederek ilgili çalýþmaya
+baþlamak daha saðlýklý olacaktýr. Að ortamýnda diðer
+bir ifadeyle siber uzayda biliþim sistemleri aracýlýðýyla
+ve biliþim sistemlerine karþý iþlenen suçlar farklý
+þekillerde adlandýrýlmaktadýr. Sanal ortamda iþlenen
+suçlar, siber suçlar, bilgisayar suçlarý, biliþim suçlarý,
+ileri teknoloji suçlarý… bu adlandýrmalarýn birkaçýdýr.
+23.11.2001 tarihli Avrupa Siber Suçlar Sözleþmesinde
+ise bu hususta herhangi bir tanýma yer verilmemiþtir.
+Avrupa Ekonomik Topluluðu’nun 1983 yýlýndaki
+‘Biliþim Suçlarý’ tanýmý ise günümüzde birçok ülke
+tarafýndan esas alýnmýþtýr. Biliþim suçlarý; bilgileri
+otomatik iþleme tabi tutan veya datalarýn taþýnmasýna
+yarayan bir sisteme karþý veya sistem ile gayri kanuni,
+ahlakdýþý ve yetkisiz icra edilen her türlü davranýþ
+olarak tanýmlanmýþtýr [3].
+Biliþim suçlarý günümüzde istisnai bir suç iþleme aracý
+olmaktan çýkmýþ, biliþim sistemlerine yönelik iþlenen
+suçlarýn yanýnda; sahtecilik, hakaret, dolandýrýcýlýk,
+özel hayatýn gizliliði ve kiþisel verilere karþý suçlar
+gibi pek çok suç türü sýklýkla biliþim sistemleri
+aracýlýðýyla iþlenen suçlar haline gelmiþtir. Sosyal
+medya kullanýmýnýn büyük oranda artmasýyla birlikte
+[4] bu sitelerde kullanýcý kimlik hýrsýzlýðý giderek
+artmaktadýr. Yine her geçen gün internet üzerinden
+klasik suç tiplerinin unsurlarýný içeren yeni
+paylaþýmlar yapýlmaktadýr. Fikri mülkiyet hakký ve
+haksýz rekabete iliþkin suç duyurularýnýn büyük
+çoðunluðu sanal ortamda gerçekleþmiþ hak ihlallerine
+yöneliktir. Dünyada banka ve kredi kartlarýnýn
+kopyalanmasý ile hesap içeriklerinin elde edilmesi ile
+çok büyük miktarlarda zararlarýn ortaya çýkarýldýðý
+belirtilmektedir [5]. 2015 yýlýnda yapýlan çalýþma,
+biliþim suçu maðdurlarýnýn çok büyük miktarlarda
+para kaybettiðini, dünyada gerçekleþtirilen uyuþturucu
+ve kara para ticaretinden bile karlý olduðunu ve son bir
+yýlda siber suç oraný %34 arttýðý belirtilmektedir [6].
+2017 tarihli bir rapora göreyse, fidye yazýlým tehditleri
+2016 yýlýnda, 2015 yýlýna göre %36 artarak günde
+ortalama 1.270’e ulaþmýþtýr [7]. Yine siber suçlarýn
+dünya genelinde verdiði zararýn 2021 yýlýna kadar 6
+trilyon dolar olabileceði tahmin edilmektedir [8].
+Devletler biliþim suçlarýyla mücadele adýna
+mevzuatlarýnda düzenlemeler yapmakta, maddi ceza
+hukuku ve ceza usul hukuku normlarý getirerek biliþim
+suçlarýný önlemeye çalýþmaktadýr. Ancak devletlerin
+ulusal düzeyde aldýðý önlemler ve yaptýðý
+düzenlemeler kâðýt üzerinde ne kadar kapsamlý ve
+etkili görünse de çoðu zaman etkisiz kalmaktadýr.
+Klasik manada bir suçun iþlendiði yerin tespiti ile
+baþlayan ceza muhakemesi iþlemlerinin siber uzay
+olarak nitelenen að ortamýnda iþlenmesiyle yetki
+hususunda birtakým sorunlar ortaya çýkmaktadýr. Yine
+bununla beraber biliþim suçlarý oldukça yeni ve hýzlý
+geliþen bir eðilim olduðundan, suçun iþleniþ biçimleri
+hakkýnda þablonlar çýkarmak mümkün olamamaktadýr.
+Bununla beraber ceza adalet sisteminin birçok aktörü
+henüz konuya aþina deðildir. Biliþim suçlarýnýn
+mukayeseli hukukta yeknesak bir tanýmý olmamakla
+birlikte mevcut tanýmlar da açýk ve yeterli
+tanýmlamalar deðildir. Biliþim suçlarýnýn özelliði
+gereði suçun faili ile maðduru arasýnda mesafe farký
+bulunmaktadýr. Belirtilen biliþim suçlarýnýn iþlendiði
+biliþim araç ve sistemleri çok teknik ve sürekli
+deðiþken olduðu görülmektedir. Ýnterneti kimliði belli
+olmayacak þekilde kullandýklarýndan failleri tespit
+etme imkaný sýnýrlý kalmaktadýr [1]. Biliþim suçlarýyla
+mücadelede en büyük sorun ise, bu mücadelenin
+küresel çapta saðlanmasý gerekliliðidir. Zira çok az
+sayýda ülkenin bile mevzuatlarýnda bu alanda gerekli
+düzenlemeleri yapmamalarý tabiri caizse bir
+ 
+  
+kurtarýlmýþ bölge arayan biliþim suçlularý için yeterli
+olmaktadýr [9].
+Gerçekten de siber suçlu herhangi bir ülkeden, istediði
+baþka herhangi bir ülkeyi veya bu ülkedeki kiþileri
+hedef alma imkâný bulunmaktadýr [10]. Bu nedenden
+dolayý, doktrinde ifade edildiði gibi, siber suçlara karþý
+mücadele ya global olacaktýr ya da bu mücadelenin
+hiç anlamý bulunmamaktadýr [11]. Birkaç devlet dahi
+bu mücadeleye katýlmazsa, ‘forum/jurisdiction
+shopping’ [12] (Bir tarafýn kendi lehine en iyi sonucu
+alabileceði mahkemede dava açmasý) denilen olgu için
+biliþim suçlularýna imkan saðlanmýþ olacak ve bu
+suçlular, mevzuatýnda en az cezayý öngören veya diðer
+ülkeler ile adli yardýmlaþma anlaþmasý olmayan
+ülkeleri tespit ederek faaliyetlerini o ülkelerden devam
+edeceklerdir [10]. Ayný zamanda iade anlaþmalarýnda
+yer alan ‘her iki devletçe de cezalandýrýlabilirlik’
+koþulu (iadenin gerçekleþebilmesi için, fiilin hem
+kendisinden iade talep edilen hem de iadeyi talep eden
+ülkelerde suç teþkil etmesi gerekliliði), bu suçlarýn
+yargýlanmasýnda devletlerin mevzuatlarý arasýndaki
+uyumu daha da önemli olmasýný ortaya çýkarmaktadýr
+[13].
+Bütün bu tehlikeler ve zorluklar, biliþim suçlarýyla
+mücadelede yasa koyucunun devreye girmesini
+zorunlu olduðunu göstermektedir. Öte yandan, biliþim
+suçlarýyla mücadele amacýyla birtakým düzenlemeler
+yapýlýrken internetin doðasý gereði açýk ve özgür
+olmasý gerekliliði internet üzerinde temel hak ve
+özgürlükleri sýnýrlamada hassas ve dikkatli olunmasý
+gerektiði unutulmamasý gereken bir gerçektir [14].
+Keza, biliþim suçlarý konusundaki  yasal
+düzenlemelerin suç politikasýnýn, evrensel hukukun
+genel ilkelerine uygun hareket edilerek oluþturulmasý
+gerektiði de vurgulanmalýdýr [15].
+Biliþim suçlarýyla mücadele, birden çok ülkenin yargý
+yetkisinin bulunmasý ve suçun ispatýnda kullanýlacak
+delillerin elde edilme yöntemlerinin zorluðu ile bu
+delillerin çok farklý tür ve formatlarda olmasý
+nedeniyle klasik adli yardýmlaþmadan çok daha hýzlý
+ve yeni yardýmlaþma modelleriyle mümkün
+olabilecektir. Biliþim suçlarýyla mücadelede yaþanan
+yukarýda ifade edilen zorluklarý bertaraf edebilmek
+adýna ülkelerin ayný farkýndalýkta olmasý, maddi ceza
+ve ceza muhakemesi hukuku mevzuatlarý arasýnda
+uyumluluk saðlanmasý ve bu yolla biliþim suçlularý
+için sýðýnma limanlarýnýn yok edilmesi ile uluslararasý
+adli iþbirliðinin geliþtirilmesi gerektiði ve bu yönde
+uluslararasý alanda birliktelik adýmlarý ortaya
+konmuþtýr. Bu adýmlarýn en önemlisi Türkiye’nin de
+taraf olduðu ve bu çalýþmanýn da konusunu oluþturan
+Avrupa Siber Suçlar Sözleþmesi’dir [9,16-18].
+Tüm bu geliþmelere karþý çözüm amacýyla uluslararasý
+kuruluþlar nezdinde yahut onlarýn destekleriyle
+STK’lar aracýlýðýyla birçok giriþim olmuþtur.
+37	
+1980’li yýllarýn ortalarýndan itibaren bu konuda çok
+sayýda BM tavsiye kararý ile giriþimlerde
+bulunulmuþtur [10]. Yine Avrupa Birliði içinde,
+Konsey’in 2005 yýlýndaki “Biliþim Sistemleri
+Aleyhinde Saldýrýlara dair Avrupa Birliði Çerçeve
+Kararý” bu konuda önem taþýmaktadýr [19].
+Biliþim suçlarýyla mücadelede Interpol, Europol ve
+Eurojust’ün çalýþmalarý da önemlidir. Bu konudaki
+önemli bir çaba, EUROPOL tarafýndan Yüksek
+Teknolojili Suçlar Merkezinin (High Tech Crime
+Centre) kurulmasý olmuþtur. Keza, 2010 yýlýnda
+Europol içinde, Avrupa Komisyonu, Eurojust ve AB
+ülkelerinin siber suçlulukla mücadele birimlerinin
+baþýndaki kiþilerden oluþan, Avrupa Siber Suç Timi
+(European Cybercrime Task Force-EUCTF) adlý bir
+platform kurulmuþtur. Buradaki amaç, biliþim
+suçlarýyla mücadelede AB içinde iþbirliðini arttýrarak
+uyumlu bir çalýþma yürütmek ve biliþim suçlarýnýn
+oluþmasýnda teknolojik geliþmelerden kaynaklanan
+sorunlara cevap bulmaktýr [20].
+Avrupa Konseyi bünyesinde, Avrupa Siber Suçlar
+Sözleþmesi’nin kabulü öncesinde, 1985 yýlýnda
+bilgisayar suçlarýnýn hukuki yönlerini tartýþmak üzere
+bir Uzman Komitesi atanmýþ; 1989 yýlýnda Suç
+Sorunlarýna iliþkin Avrupa Komitesi ‘Bilgisayarlarla
+Ýliþkili Suçlara dair Uzman Raporu’nu kabul edilmiþ;
+Bakanlar Komitesi onayý ile bu suçlara iliþkin 1989
+yýlýnda bir Tavsiye Kararý ortaya konulmuþtur. 1995
+yýlýnda  ise sýnýraþan bilgisayar suçlarýndan
+kaynaklanan sorunlara iliþkin baþka bir Tavsiye Kararý
+daha onaylanmýþtýr [10].

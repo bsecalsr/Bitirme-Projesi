@@ -1,0 +1,164 @@
+
+I.GÝRÝÞ 
+"Kullandýðýn kadar öde” prensibini uygulayarak
+kullanýcýlarýna hesaplama ve depolama
+kaynaklarý saðlayan bulut biliþim, günümüzde
+en popüler hesaplama modellerinden biridir.
+Bulut teknolojisi sayesinde kullanýcýlar uygun
+fiyatlý, verimli hesaplama ve depolama
+hizmetlerine ulaþabilmektedir. Bu avantajlarýnýn
+yanýnda bulut biliþim denildiðinde kullanýcýlarýn
+aklýný karýþtýracak konular da gündeme
+gelmektedir. Bunlar arasýnda uzak depolama
+biriminin güvenilirliði, verilerin eriþilebilirliði,
+bulut sistemi yöneticilerinin depolanmýþ verilere
+eriþim hakký ve verilerin bilgisayar korsanlarýna
+karþý ne kadar korumalý olduðu sayýlabilir.
+Çünkü hassas ve kiþisel verilerin bulut ortamýna
+taþýnmasý, veri sýzýntýsý riskini ortaya
+çýkarmaktadýr. Bu riske karþýlýk son yýllarda
+internet üzerinden uzak sunuculara sýklýkla
+yapýlan aktif saldýrýlardan dolayý kullanýcýlarýn
+veri gizliliði farkýndalýðý giderek artmaktadýr.
+Veri gizliliðini saðlamak için þifreleme
+tekniklerini kullanmak, bir kiþinin güvensiz bir
+ortamda dahi verilerinin korumasýný
+saðlayabilmekte ve riskin en aza indirilmesini
+olasý kýlmaktadýr [2]. Bu yüzden bulut ortamýný
+kullanan birçok kullanýcý, veri þifreleme yolu ile
+bulutta sakladýðý verileri için ön etkin
+(proactive) koruma yöntemini seçmeye
+baþlamýþtýr [3]. Ön etkin koruma yaklaþýmý
+sayesinde yeni bir tehdit ile karþý karþýya
+kalmadan zararlý bir eylemin gerçekleþme
+olasýlýðýna bakýlarak kullanýcý bilgilendirilir ve
+buna karþý önlemler alýnabilir. Veriye yetkisiz
+eriþebilen saldýrganlara, bulut hesaplamalarýný
+doðru yaparken sorgulanan içerikle ilgilenen
+dürüst-ama-meraklý servis saðlayýcýlarýna ve
+kötücül bulut sunucularýna karþý veriyi korumak
+için bulut üzerinden yapýlan hesaplamalarýn
+gizli olmasý gerekmektedir. Dolayýsýyla,
+istenilen iþlem bulut üzerinde þifreli veriler
+üzerinden gerçekleþtirilmelidir. Fakat þifreli
+veri sorgulamanýn en önemli problemlerinden
+biri hesaplamalarýn çoðunun doðrudan þifreli
+veriye uygulanamamasý ve mevcut çözümlerin
+de yüksek iþlemci gücü gerektirmesidir.
+Dolayýsýyla, kullanýcý verilerinin gizliliði
+korunurken þifreli veri üzerinden etkili veri
+kullanýmýný baþarmak, bulut biliþimin önemli
+araþtýrma konularýndan biri haline gelmiþtir.
+Eðlence, týp, askeriye, özel sektör, kiþisel
+depolama ve finans gibi birçok alanda kullanýlan
+bulut biliþim, paralel iþleme araçlarý sayesinde
+büyük miktarda veri ile mücadele etmede
+yaygýn bir þekilde benimsenmiþtir. Özellikle
+yaþam bilimlerinde sýnýrlý hesaplama kaynaklarý
+üzerinde büyük ölçekte genomik veri ile baþa
+çýkmak kaçýnýlmaz bir zorluk haline gelmiþtir.
+Genom verileri sayesinde bir organizmanýn tüm
+genom dizilimi ile bireyin soy aðacýný
+çýkarabilme ve tüm kalýtým bilgilerini çözebilme
+imkâný saðlanmaktadýr. Modern saðlýk
+hizmetlerini iyileþtirmek ve insan genomunu
+daha iyi anlamak, özellikle hastalýklarýn
+teþhisinde ve tedavilere yanýt vermede genom
+dizilemeye ihtiyaç olduðu için ucuz ve çok
+sayýda genom verisi üretme gereði kaçýnýlmaz
+olmuþtur.
+Gelecek nesil dizileme (Next Generation
+Sequencing - NGS) teknolojilerinin ortaya
+çýkmasýyla birlikte genom dizilimi maliyetinde
+azalmalar meydana gelmektedir. Bu yüzden
+genomik verilerden saðlýk hizmetleri (örn.
+kiþiselleþtirilmiþ ilaçlar), biyomedikal
+araþtýrmalar (örn. yeni genotip-fenotip
+iliþkilerinin keþfi), doðrudan tüketiciye
+hizmetler (örn. hastalýk riski testleri) ve adli týp
+(örn. ceza soruþturmalarý) gibi birçok alanda
+artan bir þekilde yararlanýlmaktadýr [4].
+Dolayýsýyla, üretilen genomik verinin miktarý ve
+hesaplama gereksinimleri ancak bulut
+sistemlerinin kullanýlmasýyla baþa çýkýlabilecek
+hale gelmeye baþlamýþtýr [5] [6]. Öte yandan
+bulut biliþim, depolama ve hesaplama
+gereksinimlerini karþýlamakla birlikte, doðasý
+gereði kiþisel olan genomik verilerin
+saklanmasý, iþlenmesi, transfer edilmesi,
+paylaþýlmasý ve kullanýlmasý gibi durumlar söz
+konusu olduðunda önemli güvenlik endiþelerine
+neden olmaktadýr [7]. Verilerin üçüncü kiþilere
+açýklanmasýný yasaklayan gizlilik ve veri
+koruma gereksinimleri bulut biliþimin genomik
+veri baðlamýnda kullanýlmasýnýn önünde
+engeller oluþturmaktadýr.
+Genomik verilerin neden özel veriler olduðu ve
+gizli tutulmasý gerektiði DNA özelliklerinden
+kaynaklanmaktadýr [4]. DNA, her þeyden önce
+kiþiye özgüdür ve iki bireyin DNA’sý
+birbirinden kolayca ayýrt edilebilmektedir.
+Ayrýca DNA, bireyin soyaðacý, saðlýðý ve
+davranýþlarý hakkýnda bilgi içermektedir.
+Dahasý, DNA bir bireyde zamanla çok fazla
+deðiþmemekte ve insanlar tarafýndan gizemli
+olarak algýlanmaktadýr. Sonuç olarak, DNA
+verilerinin þifreli ve anonim bir þekilde
+ 
+depolanmasý, iþlenmesi, paylaþýlmasý ve
+yönetilmesi gerekmektedir. Bu gereklilik hem
+toplumsal kaygýlara hem de kamu politikasýna
+dayanmaktadýr. Verileri araþtýrma projelerinde
+kullanýlan birçok kiþi kendilerine ait genetik
+kayýtlardan elde edilen mahrem bilgilerin
+istismar edilmesinden çekinmektedir [8]. Bu
+çekinceleri hafifletmek için kiþisel olarak
+tanýmlanabilir bir biçimde bir deneðin genomik
+bilgisinin paylaþýmýný sýnýrlayan politikalar
+hazýrlanmýþtýr. ABD’de bulunan Ulusal Saðlýk
+Enstitüsü (National Institutes of Health-
+NIH)’nün genomik veri paylaþým politikasý
+buna örnektir. Ülkemizde de 2016 yýlýnda
+yürürlüðe giren 6698 sayýlý Kiþisel Verilerin
+Korunmasý Kanunuyla DNA gibi hassas
+verilerin güvenliðiyle ilgili yasal çerçeve
+çizilmiþtir [8].
+Kiþiye özgü genomik verilerin güvenliði
+saðlanýrken, ayný zamanda saðlýk hizmetlerinin
+ve araþtýrmacýlarýn gizliliði ihlal etmeden bu
+verilerden yararlanabilmesi de gerekmektedir.
+Güvenlik alanýnda yaygýn olarak kullanýlan
+Alice ve Bob karakterleri [9] yardýmýyla örnek
+bir senaryo þu þekilde tanýmlanabilir. Alice’in
+Mikrogen Genetik Týp merkezinde, Bob’un ise
+Intergen Genetik Hastalýklar Taný merkezinde
+bulunan baþlýca araþtýrmacýlar olduðu
+varsayýlsýn [8]. Hem Alice hem de Bob hasta
+verisi toplamak ve Alzheimer hastalýðý üzerine
+genom haritalama ile ilgili araþtýrmalar yapmak
+için NIH tarafýndan finanse edilsinler. Alice ve
+Bob, NIH politikasýna [10] uymak için
+çalýþmalarýnýn bitiminde verilerini merkezi bir
+depolama birimi ile paylaþmak zorundadýr.
+Böylece baþka bir enstitüde görev alan Charlie
+gibi üçüncü kiþiler bu veriler üzerinde “Jüvenil
+Alzheimer ve X gen varyantý tanýsý içeren kaç
+kayýt var?” gibi sorgularý iþletebilirler [8].
+Dolayýsýyla, Alice ve Bob’un deneklerinin
+kimliklerini ortaya çýkarmadan, ayný zamanda
+da Charlie'nin araþtýrmalarýna engel olmadan
+genomik verilerin nasýl paylaþýlacaðý problemi
+ele alýnmalýdýr. Yani hem verinin bilimsel
+araþtýrmalar için kullanýlabilirliði hem de veri
+gizliliðinin etkin bir þekilde saðlanmasý
+gerekmektedir.
+Bu makalenin diðer bölümleri þu þekilde
+düzenlenmiþtir. Bölüm II'de genomik veri
+kavramý detaylý bir þekilde anlatýlmaktadýr.
+Genomik veriler elde edilirken
+karþýlaþýlabilecek gizlilik ihlalleri ve bu ihlallere
+engel olmak önerilen çözümler Bölüm III' te
+verilmektedir. Genomik verilerin gizliliðini
+saðlamaya yönelik ve henüz açýk olan sorunlar
+Bölüm IV' te yer almaktadýr. Makale, sonuçlarýn
+özetlendiði Bölüm V ile sonlanmaktadýr.

@@ -1,0 +1,81 @@
+
+I.GÝRÝÞ (INTRODUCTION)
+Günümüzde saldýrý kavramý yeni bir olgu
+deðildir. Ýnsanlýk tarihi boyunca saldýrý, ilk
+çaðlarda hayatta kalmak ve sömürge olaylarý için
+saldýrganlarýn kullandýðý yaygýn bir taktik
+olmuþtur. Bugün ise kötü niyetli saldýrganlar bu
+taktiði biliþim dünyasýnda yaygýn olarak
+uygulamaya baþlamýþtýr [1,2]. Kullanýcýlar web
+sitelerini, bilgi paylaþýmý, eðlence, iletiþim
+kurmak, hizmet vermek ve kendilerini tanýtmak
+gibi birçok ihtiyacý karþýlarken saldýrganlar ise bu
+siteleri, kendilerine kazanç saðlamak, kiþisel
+	
+  
+  
+	
+  
+ 
+verileri çalmak ve hedef sisteme zarar vermek
+amacýyla kullanmaktadýr.
+Bu amaç için özel olarak tasarlanmýþ zararlý
+yazýlýmlar; reklamlar, bilgilendirme mailleri ve
+sosyal mühendislik saldýrýlarý gibi çeþitli
+yöntemlerle kurban sisteme kolayca
+sýzabilmektedir [3-6]. Web tabanlý siber saldýrýlarý
+diðer siber saldýrýlardan ayýran en önemli özelliði
+ise; maðdurun kullanmakta olduðu sisteme özel
+olarak tasarlanmasý ve geleneksel anti virüs
+programlarýnýn güvenlik anlayýþý ile tespit
+edilmesinin zorluðundur. Saldýrganýn amacýna
+ 
+baðlý olarak, zararlý yazýlýmýn türü ve yöntemi de
+deðiþkenlik göstermektedir [7].
+Virüs, solucan, truva atý, RootKit (uzaktan
+kontrol virüsü) gibi zararlý yazýlým türleri son
+zamanlarda yaygýn olarak görülmektedir. Kötü
+niyetli saldýrganlar; para, þantaj, ülkelerarasý terör
+saldýrýlarý veya bilgi hýrsýzlýðý gibi gerekçelerle
+kiþiler ya da kurumlara saldýrý ataklarýnda
+bulunmaktalardýr. Bu hedefli saldýrýlara ek olarak
+hiçbir amaç gözetmeden tamamen zarar vermek
+ya da saldýrganlarýn egolarýný tatmin etmek için
+düzenlene saldýrýlarda görülmeye devam
+etmektedir.
+Siber saldýrýlar amaçlarýna göre sýralandýðýnda
+temel olarak altý baþlýk altýnda toplanabilir.
+Bunlar;
+Ticari amaçlý kullanýcý eðilimlerin
+belirlenmesi amacýyla bilgi toplamak,
+Kiþisel bilgilerin ele geçirmek (Kayýtlý e-
+ posta þifreleri, banka þifreleri, sosyal
+medya þifreler vb.)
+Þantaj yaparak para kazanmak,
+ Hedef sistemi yavaþlatmak ya da
+ tamamen kullanýlmaz hale getirmek,
+Terör faaliyetleri, siyasi aktivist gruplar
+faaliyetleri, ve
+Amaç gözetmeden zarar vermektir.
+Zararlý yazýlýmlar genellikle oltalama
+yöntemlerini kullanarak hedef sistemlere
+sýzmaktadýr. Bu amaç için tasarlanmýþ ilk bakýþta
+zararsýz bir içerik gibi görülen e-postalar
+kullanýcýlara gönderilerek e-posta ekinde bulunan
+zararlý yazýlýmýn kullanýcý tarafýndan aktif hale
+getirilmesi amaçlanmaktadýr. Son günlerde
+ülkemizde sýklýkla görülmeye baþlanan web
+tabanlý zararlý yazýlým oldukça tehlikeli sonuçlara
+ve sonuçlarýyla birçok maðduriyetlere sebep
+olmaktadýr [8-10]. Web tabanlý zararlý yazýlýmlar,
+genellikle maddi çýkar saðlamak (fidye
+yazýlýmlar) ya da orijinal yazýlým ürünlerini yasa
+dýþý olarak çoðaltmak ve kullaným saðlayacak
+þekilde tasarlanmaya yöneliktir [11-12]. Fidye
+yazýlýmlar, hedef sistemdeki dosyalarý
+þifrelendikten sonra kullanýcýya ait özel
+dosyalarýn þifrelenmektedir [13-16].
+dosyalara tekrar eriþim saðlanabilmesi için
+maðdur saldýrgana fidye ödemesi gereklidir [18-
+20]. Ödeme sanal para denilen bitcoin ile
+yapýlmaktadýr [21-23].

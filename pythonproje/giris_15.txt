@@ -1,0 +1,105 @@
+
+I.     GÝRÝÞ (INTRODUCTION)
+Bitcoin, bir banka, bir yeminli mali müþavir, noter veya
+herhangi bir diðer merkezi hizmet olarak görünebilecek
+herhangi bir güvenilir üçüncü taraf otoritesi olmadan
+çalýþan eþler arasý bir teknolojidir [1]. Özellikle, Bitcoin
+ 
+sahipleri, kripto paralarý üzerinde tam kontrole sahiptir
+ve bunlarý, herhangi bir merkezi otorite içermeden, her
+an ve her yerde harcayabilirler. Bitcoin teknolojisinin
+tüm tasarýmý açýk kaynak kodla ile tasarlanmýþtýr ve hiç
+kimse bu kodlarýn sahibi deðildir veya bu sistemi tek
+baþýna kontrol edemez. Ayrýca, bir yandan kriptografik
+olarak güvenli bir elektronik ödeme sistemi olarak görü-
+ 
+lürken bir yandan da altýn gibi saklama aracý olarak
+görülmektedir.
+Bitcoin, 2009 yýlýnda kurulmasýndan bu yana hem aka-
+demi hem de endüstri tarafindan büyük ilgi görmektedir.
+Piyasa deðeri 130 milyar olan ve 223.000 adetten fazla
+teyit edilmiþ günlük toplam iþlem sayýsý ile (block
+chain.info, Mayýs 2018), Bitcoin bugüne kadar ki en
+baþarýlý kripto para birimi olarak göze çarpmaktadýr. Söz
+konusu para transferlerin miktarý ve deðeri göz önüne
+alýndýðýnda, Bitcoin saldýrganlar için açýk bir hedef
+haline gelmiþtir. Gerçekten de sistemin farklý yönlerini
+hedefleyen çok sayýda çift harcama [2], netsplit [3],
+iþlem bütünlüðünü bozma [4], að saldýrýlarý [5], maden-
+ciliði hedef alan saldýrýlar [6-8], madencilik havuzlarý
+hedef alan saldýrýlar [9] gibi saldýrýlar gerçekleþtirilmiþ-
+tir.
+Ödeme sistemlerinde iki temel güvenlik kriter önemli
+olmaktadýr. Ýþlemi gerçekleþtiren kiþilerin mahremiyeti
+ve iþlemlerin gizliliðidir. Ýþlemler ile ödemeyi yapan
+kiþiler arasýnda iliþkiyi ortadan kaldýrýlmasý ile anonim-
+lik saðlanýr. Ýþlemlerin þifrelenmesi ise iþlemlerin gizli-
+liðini saðlar. Geleneksel bankacýlýk sistemi, ilgili taraf-
+lara ve güvenilir üçüncü taraflarýn iþlem bilgisine eriþi-
+mi sýnýrlandýrarak bir anonimlik seviyesi saðlamaktadýr.
+Bitcoin'de, tüm iþlem verileri aða baðlý herhangi bir
+kullanýcýya açýk bir þekilde gösterilmektedir. Bununla
+birlikte, mahremiyet, Bitcoin iþlem zincirinde bir yerde-
+ki bilgi akýþýný kýrarak belirli bir seviyeye kadar koruna-
+bilmektedir. Bitcoin, açýk anahtarlarý anonim olarak
+tutarak bunu baþarmaktadýr. Diðer bir deyiþle herhangi
+bir kiþi yeni anahtarlar üreterek bir baþkasýna bir miktar
+bitcoin yollayabilir, ancak yapýlan iþlem gönderen kiþi
+ile iliþkilendiren bilgi olmadan gerçekleþtirilmektedir.
+Ancak önceki iþlem sýralarýnýn tamamýnýn açýk olmasý
+bu anahtarlarýn anonim olmasýnýn önemini ortadan
+kaldýrmaktadýr. Yani, kullanýcý mahremiyetini saðlamak
+için, iþlemlerin belirli bir kullanýcýya baðlý olmalarýný
+engellemek için her iþlem için yeni bir anahtar çifti
+kullanýlmasý önerilmektedir. Bununla birlikte, çok giriþli
+iþlemlerde, yine de bunlarýn sahiplerinin ayný kripto
+para sahibine ait olduðunu gösteren baðlantýlarýn ortaya
+çýkarýlmasý mümkün olmaktadýr. Ayrýca, bir anahtarýn
+sahibinin ifþa edilmesi durumunda, baðlantýnýn ayný
+kullanýcýya ait diðer iþlemleri ortaya çýkarma riski bu-
+lunmaktadýr. Özellikle, Bitcoin kýsmi iliþkilendirilemez-
+liði (yani, takma numara ile) saðlar. Bu sayede, saðlam
+bir blokzinciri analiz prosedürü vasýtasýyla para akýþýný
+takip ederek bir takým iþlemlere bireysel bir kullanýcý ile
+iliþkilendirilmesi mümkün olmaktadýr.
+Bitcoin teknolojisi gizlilik söz konusu olduðunda ken-
+dini gösterir ama Bitcoin'de mevcut olan tek gizlilik,
+sözde adreslerden (ortak anahtarlar veya bunlarýn kar-
+malarý) gelir. Kiþilerin mahremiyeti, Bitcoin adreslerin
+yeniden kullanýmý, “leke” analizi ve blokzincir analiz
+yöntemleri, IP adresi izleme düðümleri, bir kaç isim için
+izleme ödemeleri gibi farklý teknikler aracýlýðýyla orta-
+dan kaldýrýlabilmektedir. Bir kez kýrýldýðýnda, gizliliði
+tekrardan saðlamak zor ve çok pahalý olabilmektedir.
+Bitcoin’in iþlemle ilgili diðer bilgileri korumak için
+herhangi bir dizinin bulunmadýðýný (günce (log) tutul-
+madýðý) bilinmektedir. Ancak, bir saldýrgan e-posta ve
+gönderim adresleri gibi çevrimdýþý verileri çevrimiçi
+bilgilerle iliþkilendirebilir ve eþler hakkýndaki özel bil-
+gilere eriþebilir. Daha açýk bir ifade ile hâlihazýrdaki
+Bitcoin tasarýmý mahremiyeti tam olarak saðlamamak-
+tadýr. Bitcoin protokolünün en temelinde transfer iþlem-
+leri yatmaktadýr. Gerçekleþen tüm iþlemler blokzincirde
+saklanmakta ve herkese açýktýr, yani hangi adreslerin
+hangi adreslere ne kadar bitcoin gönderildiði görülmek-
+tedir. Bu adreslerden bazýlarý gerçek dünya kimlikleriyle
+baðlantýlýysa, kimler arasýnda para transferi olduðu
+ortaya çýkabilir. Bu, kiþiler ve kurumlar arasýndaki mah-
+remiyeti saðlama ile çeliþmektedir. Ayrýca, birden fazla
+bitcoin adreslerinden girdiler ayný iþlem üzerinden baþ-
+ka adrese gönderilmektedir. Bu da ayný kiþinin hangi
+adreslere sahip olduðunu da göstermektedir. Bu sebep-
+lerden ötürü, bu çalýþmada, Bitcoin kullanýcýlarýnýn
+mahremiyetine yönelik çeþitli güvenlik tehditlerini ve
+bunlarý geliþtirmek için önerilen en son teknoloji ürünü
+çözüm yöntemleri verilmiþtir. Ýþlemlerdeki miktarlar ile
+gönderici/alýcý adresleri þifrelenerek mahremiyet saðla-
+nabilmektedir. Bu çalýþmada Bitcoin’in özü ile kiþilerin
+mahremiyetini saðlamak için önerilen yöntemler üze-
+rinde duruldu.
+Bu makalede, öncelikle Bitcoin ve altyapýsýndaki bile-
+þenler Bölüm II detaylý bir þekilde anlatýldý. Daha sonra,
+Bitcoin’deki iþlemleri anonimleþtirmek için önerilen
+yöntemler       anlatýldý.    Son       olarak,       yöntemlerin
+karþýlaþtýrmalý tablosu sonuç bölümünde tartýþýlarak
+verildi.

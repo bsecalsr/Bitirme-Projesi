@@ -1,0 +1,72 @@
+
+I. GÝRÝÞ
+    Nesnelerin Ýnterneti, çeþitli iletiþim ve
+    haberleþme protokolleri sayesinde birbiri ile
+    iletiþim kuran nesnelere ait verileri toplayýp
+    analizini yaparak nesneleri kontrol eden bir aðdýr
+    [1], [2], [3].
+    Günümüzde artýk her alanda Ýnternet karþýmýza
+    çýkmaktadýr. Geliþen teknolojiler sayesinde
+    neredeyse her zaman ve her yerden Ýnternete
+    eriþim saðlanmaktadýr [4]. Yalnýzca tabletler,
+    akýllý telefonlar ve bilgisayarlar deðil, artýk
+    elektrik prizleri, çamaþýr makineleri, ilaç þiþeleri
+    ve arabalar da Ýnternete baðlanmaktadýr. Tüm bu
+    geliþmeler doðrultusunda son yýllarda ortaya
+  
+	
+  	
+  
+	
+  
+ 
+çýkan Nesnelerin Ýnterneti teknolojisinin günlük
+yaþamdaki rolü git gide artmaktadýr. Bu
+teknoloji, saðlýk, ev, tarým, enerji, çevre, su,
+þehir, endüstri ve taþýmacýlýk gibi alanlarda
+kullanýlmaktadýr [1], [5].
+Yaygýnlaþan akýllý nesneler, bunlarýn birbiriyle
+iletiþim kurabilmesi ve Ýnternete baðlý olmasý
+çeþitli siber saldýrýlarý da beraberinde
+getirmektedir [6], [7]. Her hangi bir ihlal
+durumundaki olumsuz sonuçlar sebebiyle bu
+alanda bilgi güvenliði oldukça  önem
+taþýmaktadýr. Örneðin, Ýnternete baðlanan
+nesneler, siber saldýrganlarýn kurbanlarýný takip
+etmesine imkân saðlayabilir veya uzaktan
+baðlantý ile bir saldýrgan, herhangi bir kimsenin
+ 
+elektriðini kapatabilir, arabasýný çalýþtýrabilir
+veya kapýsýnýn kilidini açabilir duruma
+gelecektir.
+Nesnelerin Ýnternetinde üreticiler,farklý
+teknolojiler kullanmaktadýr[8].Bu
+teknolojilerden bazýlarýnda bulunan güvenlik
+açýklarý [9] nedeniyle Nesnelerin Ýnternetinde
+uçtan  uca güvenli haberleþme
+saðlanamamaktadýr [10]. Uçtan uca güvenli
+haberleþmenin saðlanmasý için söz konusu
+güvenlik açýklarýnýn tespit edilip önlemler
+alýnmasý gerekmektedir [11].
+Nesnelerin Ýnternetinde yaygýn olarak kullanýlan
+teknolojilerden biri olan ZigBee protokolünde
+bazý güvenlik açýklarý bulunmaktadýr [12], [13],
+[14]. Örnek olarak, Touchlink Commissioning
+metodu gösterilebilir [15]. Bu metodun en
+önemli özelliði kullanýcý dostu kurulumu esas
+almasýdýr. Bu metot ile özellikle ev sistemlerinde
+kullanýcýlar sadece düðümü çalýþtýrarak kolay bir
+kurulum yapmaktadýr. Fakat metodun sunduðu
+bu kolaylýða raðmen, aða katýlým sýrasýnda
+küresel baðlantý anahtarý kullanýlmasý sebebiyle
+güvenlik açýklarý meydana gelmektedir.
+Bu makalede, yukarýda bahsedilen ZigBee
+teknolojisindeki güvenlik açýðýnýn kapatýlmasýna
+katký yapmak için yeni bir ZigBee Bulut modeli
+önerilmektedir. Bu model ile ZigBee aðlarýna
+katýlýmýn daha güvenli hale geldiði
+deðerlendirilmektedir.
+Bu makalede, ikinci bölümde ilgili çalýþmalar,
+üçüncü bölümde ZigBee güvenlik analizi,
+dördüncü bölümde önerilen model ve beþinci
+bölümde sonuçlar anlatýlacaktýr.

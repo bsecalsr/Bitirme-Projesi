@@ -1,0 +1,68 @@
+
+I. GÝRÝÞ 
+Bulut biliþim, uygulamalarýn internet ortamýnda
+barýnmasýný ve “kullandýkça öde” stratejisi ile
+kullanýcýlarýn yalnýzca tükettiði hizmet birimi
+kadar ödeme yapmalarýný saðlayan
+sanallaþtýrýlmýþ ve ölçeklenebilir kaynaklarýn
+toplamýdýr [1]. Bu teknoloji, kullanýcýlarýn veri ve
+uygulamalarýný uzak “Bulut” sistemine taþýyarak
+istedikleri zaman basit ve hýzlý bir þekilde
+kaynaklara eriþimini saðlayan bir sistemdir.
+Bulut biliþim modelinin en yaygýn kullanýlan
+tanýmý NIST [3] tarafýndan “Minimum yönetim
+çabasý veya servis saðlayýcý etkileþimi ile hýzla
+tedarik edilebilen ve serbest býrakýlabilen,
+paylaþýlabilir ve yapýlandýrýlabilir hesaplama
+kaynaklarý havuzuna uygun (örneðin aðlar,
+sunucular, depolama, uygulamalar ve servisler),
+isteðe baðlý að eriþimini saðlamak için bir model”
+þeklinde yapýlmýþtýr.
+2007 yýlýnýn sonlarýna doðru üretilen Bulut
+Biliþim teknolojisi kullanýlarak, bugüne kadar
+endüstri ve akademik alanda RESERVOIR (IBM
+ve Avrupa Birliði'nin Bulut biliþim için ortak
+araþtýrma giriþimi), Amazon Elastic Compute
+Cloud ve IBM þirketinin Blue Cloud projesi
+baþlatýlmýþtýr [72]. Ayrýca Nimbus, Stratus,
+OpeNEbula, HP, Intel Corporation and Yahoo!
+gibi birçok bilimsel proje; endüstri, araþtýrma ve
+eðitim için açýk kaynak bulut biliþim test ortamý,
+küresel ve çoklu veri merkezinin oluþumu olarak
+duyurulmuþtur [72].
+Bulut biliþim, kullanýcýlarýn yazýlým ve
+verilerinin sunucular üzerinde depolanmasýný
+saðlarken ayný zamanda biliþim ihtiyaçlarýný
+karþýlamak için internet (web) tarayýcýlarý
+aracýlýðýyla çevrimiçi yaygýn iþ uygulamalarý
+saðlamaktadýr. Böylece Hizmet Odaklý Mimari
+(Service Oriented Architecture), Web 2.0,
+sanallaþtýrma ve internete baðlý diðer teknolojiler
+bir takým hesaplama kavramlarýný ve teknolojileri
+birleþtirmektedir [6]. Bulut biliþimden elde
+edilen potansiyel kazanýmlara raðmen, bu
+teknoloji nispeten yeni bir hesaplama modelini
+temsil ettiði için her seviyede güvenliðin nasýl
+elde edilebileceði ve uygulama güvenliðinin
+bulut ortamýnda nasýl saðlandýðý konusunda bir
+belirsizlik bulunmaktadýr [6]. Bu belirsizlikten
+dolayý model güvenliðine duyulan þüphe, bulutun
+benimsenmesini etkilemekte ve bulut biliþim
+pazarýnýn ilerlemesine engel olmaktadýr [1, 11].
+Bu çalýþmada, bulut biliþimin katmanlý mimarisi
+deðerlendirilerek bu katmanlý mimaride meydana
+gelen güvenlik problemleri ve bu problemlere
+yönelik literatürde önerilen çözümler üzerine bir
+derleme çalýþmasý yapýlmýþtýr. Makalenin geri
+kalan kýsýmlarý þu þekilde düzenlenmiþtir: 2.
+Bölümde bulut biliþim mimarisi hakkýnda bilgi
+verilmiþtir. 3. Bölümde bulut platformunun
+katmanlý yapýsýndan kaynaklanan güvenlik
+zafiyetleri, bu zafiyetler kullanýlarak yapýlan
+saldýrýlar ve bunlar arasýndaki iliþki detaylý bir
+þekilde incelenmiþ ve sýnýflandýrýlmýþtýr. 4.
+Bölümde ise geniþ kapsamlý bir literatür
+araþtýrmasý yapýlarak bulut biliþimde gerçekleþen
+saldýrýlara karþý önerilen güvenlik yöntemlerine
+yer verilmiþtir. 5. Bölümde ise sonuç ve öneriler
+üzerinde durulmuþtur.

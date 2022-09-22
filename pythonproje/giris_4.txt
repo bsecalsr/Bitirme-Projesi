@@ -1,0 +1,42 @@
+
+I. GÝRÝÞ 
+    Günümüzde siber alan tüm verileri ile birlikte
+zettabayt çaðýna eriþmiþtir. Yeni teknolojilerin ve
+hizmetlerin yaný sýra trilyonlarca aygýt ve zettabayt
+verinin ortaya çýkmasý, eski tehditlerin ve güvenlik
+açýklarýnýn ele alýnmasýnýn yaný sýra siber güvenlik
+uzmanlarýný yeni tehdit ve zayýf noktalarla da
+uðraþmak zorunda býrakmýþtýr. Buna ek olarak siber
+savaþ alanýndaki teknolojik geliþme ve ilerlemeler ile
+karmaþýk tehditler, siber savunmada daha akýlcýl
+çözümlere baþ vurulma gerekliliðini meydana
+getirmiþtir.
+    Yeni teknolojilerin siber savunma sistemlerine
+adapte edilmesi, bu sistemleri hedef alabilecek
+tehditlerdeki teknolojik artýþ göz önünde
+bulundurulduðunda ne derecede kritik olduðu ortaya
+çýkmaktadýr. Yeni teknolojiler arasýnda yapay zekaya
+siber savunmada daha aðýrlýk verilmesi siber
+saldýrýlarýn daha erken tepit edilmesi ve bu saldýrýlara
+daha erken karþýlýk verilmesine katký saðlamaktadýr.
+    Siber savunma alanýýnda yapay zeka kullanýmý ile
+ilgili ele alýnmasý gereken temel problem mevcut
+teknolojilerin arzu edilen yeterli seviyede olmadýðý ve
+siber savunmanýn en zayýf haklasý olarak kabul edilen
+insan faktörünün en aza indirgene bilmesi için ne gibi
+yapay zeka metodojilerinin geliþtirilerek adapte
+edilmesi gerektiði konusundadýr.
+    Bu çalýþmada öncelikle yapay zeka konusu ele
+alýnmýþ, bu kavramdan ne kastedildiði, ayrýmlarý, bu
+teknolojiyi  geliþtirmekteki zorluklardan
+bahsedilmiþtir. Daha sonraki bölümlerde ise
+makalenin ana konusunu teþkil eden geliþtirilmekte
+olan yapay zeka teknik ve yöntemlerinin siber
+savunma sistemlerinde nasýl kullanýldýðý konusu
+açýklanmaya çalýþýlmýþtýr. Özellikle erken uyarý,
+saldýrý tespit ve önleme sistemlerinde yapay zeka
+kullanýmý oldukça önemlidir. Yine siber savunma için
+kullanýlan mevcut yapay zeka uygulamalarýný
+incelemek, gittikçe daha büyük önem kazanan bu
+konuyla ilgili gelecekte yapýlmasý düþünülen bilimsel
+çalýþmalara da katký saðlayabilecektir.

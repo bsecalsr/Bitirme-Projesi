@@ -1,0 +1,98 @@
+
+I. GÝRÝÞ (INTRODUCTION)
+Güvenlik duvarlarý halen en çok kullanýlan sýnýr
+güvenliði sistemleri arasýnda yer almaktadýr [1].
+   
+Kurumsal aðlar ile Internet arasýnda konuþlandýrýlarak
+að eriþim kontrolünü saðlayan güvenlik duvarlarýnýn
+kural listelerinin yapýlandýrýlmasý ile ilgili olarak iki
+yaklaþým olasýdýr:
+    •     Gevþek yaklaþým: “Yasaklanan trafiði tanýmla
+    •     Sýký yaklaþým: “Ýzin verilen trafiði tanýmla ve
+Fiili uygulamada güvenlik duvarlarýnda genellikle bu
+iki yaklaþýmýn karmasýndan oluþan bir durumla
+karþýlaþýlmaktadýr. Internet ile DMZ arasýndaki trafiðin
+izlenmesi      ve     engellenmesi      sýký      yaklaþýmla
+yapýlandýrýlýrken, kullanýcý bilgisayarlarýnýn bulunduðu
+kurumsal að ile Internet arasýndaki trafik gevþek
+ 
+yaklaþýmla yapýlandýrýlmaktadýr. Bu durum, kullanýcý
+bilgisayarlarýna WEB’in engellenen alanlar haricinde
+her yerine baðlantý kurma olanaðýný vermekte,
+kullanýcýlarý pek çok farklý saldýrý türüne açýk hale
+getirmektedir. Dolayýsý ile güvenlik duvarý tarafýndan
+engellenmesi gereken zararlý IP alanlarýnýn devamlý
+olarak güncellenmesi gerekmektedir. Ancak pek çok
+kurum ve kuruluþ bu iþi hakkýyla yapacak insan
+kaynaðýna ve prosedüre sahip deðildir. Internet ile
+ve engelle, kalan trafiði geçir”,
+kapsamýnda genellikle güvenlik duvarý ile birlikte
+alýnan ve güvenlik duvarý platformunda çalýþan “WEB
+geçir, kalan trafiði yasakla” [2].
+filtreleme”      modülü       ve       bakým        hizmetinden
+faydalanýlmaktadýr. Güvenlik duvarý üreticisi firma
+tarafýndan belirlenen ve sistem yöneticisinin tercihi ile
+etkinleþtirilen “Terör”, “Kumar”, “Ekstremizm”,
+“Zararlý madde satýþý”, “Proxy” vb. kategorilerdeki
+kurallar aracýlýðý ile kurum içinden Internet’e
+yapýlmaya çalýþýlan eriþimler engellenmektedir.
+ 
+  
+Güvenlik duvarlarý periyodik olarak geliþtirici firma
+veritabanýna baðlanarak engellenecek kategorilere ait
+en güncel WEB filtreleme listelerini alýp kullanarak bu
+iþlevi gerçekleþtirmektedir. Böylece en önemli sýnýr
+güvenliði sistemlerinden biri olan güvenlik
+duvarlarýnýn yönetilmesi konusunda yetki önemli
+ölçüde üretici firmaya geçmektedir.
+Yukarýda sayýlan kategorilerde siber uzayda faaliyet
+gösteren pek çok grup veya örgüt mevcut olduðundan
+bunlarýn izlenmesi ve tespiti kurumsal siber güvenliðin
+kapsamýný gerçekten aþan bir iþtir. Ancak güvenlik
+duvarýnýn izlenmesi, performansýn ölçülmesi ve
+iyileþtirme  yollarýnýn  araþtýrýlmasý   kurumsal
+    
+olanaklarla yapýlabilir.
+Güvenlik duvarlarýnýn hýzla yer ve yöntem deðiþtiren
+saldýrganlara karþý ne kadar etkin koruma saðladýðý
+belirsizdir. Esasen siber uzayda faaliyet gösteren
+saldýrganlarýn etkinliði de WEB filtreleme listesi de
+zaman içinde deðiþmektedir (Þekil 1). Herhangi bir t0
+anýnda saldýrganlarý karþýlama ve engelleme
+konusunda etkili olan filtreleme listesini üreten
+firmanýn, iki hafta, iki ay veya iki yýl sonra da ayný
+baþarýyý göstereceðinin garantisi yoktur. Dolayýsý ile
+güvenlik duvarý etkinliðinin, filtreleme listesi bakýmý
+hizmetini saðlayan firmadan baðýmsýz kuruluþlar
+tarafýndan üretilen saldýrgan bilgileri kullanýlarak
+izlenmesi son derece faydalý olacaktýr.
+Güvenlik duvarý performansýndan genellikle iletim
+hýzý, desteklenen paralel oturum sayýsý gibi aða iliþkin
+parametreler anlaþýlmaktadýr [3], [4]. Güvenlik duvarý
+kural listesi uzunluðunu optimize ederek performansý
+yükseltmeyi hedefleyen çalýþmalar da yapýlmýþtýr [5].
+Bu makaledeki çalýþma ise güvenlik duvarý WEB
+filtreleme listesinin kapsayýcýlýðýný ve etkinliðini
+izleyerek performansý ölçmeyi hedeflemektedir.
+Ýzleyen bölümlerde çok portlu bir saldýrý tespit sistemi
+ve üretici firmadan baðýmsýz siber güvenlik firmalarý
+tarafýndan üretilen (makalenin bir sonraki bölümünde
+“Baðýmsýz kaynaklardan alýnan IP kara listeleri”
+olarak adlandýrýlan) kara listeler kullanýlarak ve
+güvenlik duvarýndan geçen að trafiði izlenerek
+güvenlik duvarý etkinliðinin ölçülmesi ve sýnýr
+güvenliðinin iyileþtirilmesi için kullanýlabilecek bir
+metod önerilmekte olup dört bölümde açýklanacaktýr:
+1.   Baðýmsýz kaynaklardan IP kara listelerinin
+toplanmasý ve iþlenmesi
+2.   Çok portlu saldýrý tespit sisteminin kurum
+aðýnda konuþlandýrýlmasý
+3.   Etkinlik ölçümü
+a. Güvenlik Duvarýný aþarak “bilinen
+saldýrganlar” ile kurum bilgisayarlarý
+arasýnda akan trafiðin izlenmesi
+b. Güvenlik Duvarýnýn istenmeyen trafiði
+engelleme etkinliðinin belirlenmesi
+4.   Güvenlik   Duvarýnda   ve   kurum
+bilgisayarlarýnda   yapýlmasý   gereken
+iyileþtirmeler

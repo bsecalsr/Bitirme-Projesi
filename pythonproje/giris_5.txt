@@ -1,0 +1,188 @@
+
+I. GÝRÝÞ
+Dijitalleþen dünya, insan odaklý ve kiþilere özel
+çok miktarda veri üretilmesine imkân
+tanýmaktadýr. Sosyal medya ortamlarýndan
+elektronik alýþveriþlere, saðlýk uygulamalarýndan
+akýllý þehirlere kadar pek çok teknoloji, geleneksel
+ 
+teknolojilere kýyasla daha fazla kiþisel veri
+üretmeye ve toplamaya olanak saðlamaktadýr.
+Böylesi bir dijital dünyada insanlarýn býraktýðý her
+ayak izi, onlarý daha çok tanýmayý ve tanýmlamayý
+saðlamakla beraber daha fazla kiþisel veri
+toplamaya da imkân saðlamaktadýr. Örneðin, bir
+sosyal medya platformunda yapýlan beðeniler,
+ 
+takip edilen kiþiler, akrabalýk iliþkileri, yüklenen
+video ve resimler bireyi daha fazla tanýmlamayý
+saðlayan pek çok özellikten bazýlarýdýr. Geliþen bu
+teknolojilerle beraber üretilen, depolanan ve
+iþlenen verinin miktarý artmaktadýr. Özelikle
+insanýn da bir parçasý olduðu her türlü dijital
+ortamda üretilen veriler, içerisinde çok sayýda ve
+çeþitte kiþisel bilgi barýndýrabilmektedir. Verinin
+üretilmesinden depolanmasýna kadar geçen
+süreçte güvenlik önlemleri önemli bir rol
+oynarken, verinin iþlenmesi ve analiz edilmesinde
+ise veri mahremiyeti önlemleri önemli bir unsur
+olarak karþýmýza çýkmaktadýr.
+Bireyi doðrudan veya dolaylý olarak
+tanýmlayabilecek her türlü veri kiþisel veri olarak
+ 
+kabul edilmektedir. Saðlýk verileri, ticari veriler,
+demografik veriler, konum verileri, maaþ verileri,
+epostalar, fotoðraflar ve videolar gibi pek çok veri
+çeþidi kiþisel verilere örnek olarak verilebilir [1].
+Bir veri üretici olarak insan, ürettiði kiþisel
+verilerini açýða vurma veya paylaþma konusunda
+bir iradeye sahiptir. Bu irade ise doðrudan kiþisel
+veri mahremiyetini belirler. Bu kapsamda veri
+mahremiyeti, “bireylerin bilgilerinin doðru
+kullanýmý ve bireyin hangi bilgisinin kiminle ve ne
+derecede paylaþýlmasýna karar verme
+mekanizmasý” olarak literatürde tanýmlanmýþtýr
+[2].
+Veri mahremiyeti saldýrganlar tarafýndan ifþa
+edilme riski taþýdýðý için koruma gerektiren bir
+unsur olarak karþýmýza çýkmaktadýr. Kiþisel
+verilerin ifþa edilmesi halinde ait olduðu bireyin
+toplumdan dýþlanmasý, ayrýmcýlýða uðramasý,
+itibar kaybý gibi pek çok sorunla karþýlaþma
+ihtimalini de ortaya çýkarýr. Bu ihtimalleri
+minimize etmek ve mahremiyet saldýrýlarýný
+mümkün olabildiði kadar bertaraf etmek gerekir
+[3].
+Bu amaçla literatürde önerilmiþ çeþitli yaklaþýmlar
+ve koruma modelleri mevcuttur. Veri mahremiyeti
+genel olarak aþaðýda sunulan alt konularda
+çalýþýlan geniþ bir konudur;
+ - Mahremiyet Korumalý Veri Yayýnlama [4, 5],
+ - Mahremiyet Korumalý Veri Madenciliði [6].
+Mahremiyet korumalý veri yayýnlama, kiþisel veri
+barýndýran veri kümelerinin topluma veya
+araþtýrmacýlara paylaþýlmasý amacýyla verinin
+mahremiyetini koruyarak yayýnlamasý sürecini
+ifade eder. Buradaki husus, veriden daha fazla
+deðer üretilebilmesi amacýyla verinin mahremiyet
+tedbirleri çerçevesinde  üçüncü  kiþilerle
+paylaþýlmasýdýr. Mahremiyet korumalý veri
+madenciliði ise veri mahremiyetini dikkate alarak
+kiþisel veri içeren veri kümesi üzerinde veri
+madenciliði iþlemlerinin yapýlmasýný ifade eder.
+Literatürde hem mahremiyet korumalý veri
+yayýnlama hem de mahremiyet korumalý veri
+madenciliði için geliþtirilmiþ çok sayýda çözüm
+vardýr. Gerek geliþen ve deðiþen teknolojiler
+gerekse de evrilen problemler ile beraber veri
+mahremiyeti kapsamýnda yeni çözümlerin sürekli
+olarak geliþtirildiði görülmektedir. Geliþtirilen bu
+çözümlerin hitap ettiði teknolojiyi de dikkate
+aldýðý bir gerçektir. Örneðin büyük veri teknolojisi
+için geliþtirilen bir mahremiyet koruma
+çözümünün, yapay zekâ gibi bir teknoloji için
+geliþtirilen çözüme göre farklý bir yapýya sahip
+olacaðý kesindir.
+Kiþisel verilerin iþlenmesinde KVKK [7] ve
+GDPR [8] gibi yasal zorunluluklarýn olmasý,
+verinin temin edilmesinden analiz edilmesine
+kadar geçen süreçte tüm taraflarýn bu yasa ve diðer
+çeþitli direktiflere uymasý gerekliliðini ortaya
+koymaktadýr.
+Zeki sistemlerin hukuki sorumluluklarý,
+karþýlaþýlan etik problemler, doðacak
+olumsuzluklardaki yasal boþluklar son dönemde
+üzerinde çalýþýlan ve çözüm üretilmeye çalýþýlan
+konularýn baþýndadýr. Yapay zekânýn bir alt dalý
+olan derin öðrenme, yapay sinir aðlarý mimarisine
+dayalý bir makine öðrenmesi yaklaþýmýdýr. Genel
+olarak bir girdi katmaný, çok sayýda gizli katman
+ve bir tane çýktý katmanýndan oluþur. Günümüzde
+pek çok alanda kullanýlmakla beraber özellikle
+görüntü iþleme, ses iþleme, doðal dil iþleme,
+makine çevirisi gibi alanlarda sýklýkla tercih
+edilmektedir [9].
+Derin öðrenme yaklaþýmlarý, açýk kaynak olarak
+bulunan veya sunulan çeþitli veriler üzerinde zeki
+çözümler sunabilirken, kurumsal veya kiþisel
+veriler kullanarak çok farklý ve þaþýrtýcý derecede
+yeni çözümlerde sunabilmektedirler. Böylesi bir
+durumda,ortaya çýkabilecek  muhtemel
+mahremiyet ihlallerini de dikkate alarak ve
+verilerin iþlenmesi, saklanmasý veya taþýnmasý
+gerekmektedir [10].
+Mahremiyet korumalý veriyayýnlamada
+k-Anonimlik [11], l-Çeþitlilik [12] ve t-Yakýnlýk
+[13] gibi temel mahremiyet koruma modelleri
+ 
+geliþtirilmiþ ve çeþitli saldýrýlara karþý birer çözüm
+olarak uygulanmýþtýr. Diferansiyel mahremiyet
+[14] ise son yýllarda popüler olan önemli bir baþka
+mahremiyet koruma modelidir. Veri yayýnlarken
+ve analiz ederken bu yöntem önemli bir üstünlük
+sunmaktadýr. Özellikle diðer koruma modellerinin
+arka plan bilgisi saldýrýsýna karþý korumasýz
+olmasýndan dolayý, bu sorunu gidermek amacýyla
+geliþtirilmiþtir.
+Bu çalýþmada, veri mahremiyeti, mahremiyet
+saldýrý ve koruma modelleri hakkýnda bilgi
+verilmiþ, diferansiyel mahremiyet modeli
+detaylýca açýklanmýþ, derin öðrenmede geliþtirilen
+diferansiyel  mahremiyet yaklaþýmlarý
+uygulamalarý gözden geçirilmiþ ve sonuçta bu
+alanda karþýlaþýlan problemler ile olasý çözüm
+önerileri sunulmuþtur.
+Veri mahremiyetini korumada kullanýlan ve en
+basit yöntem olarak kabul edilen kimliksizleþtirme;
+tekil-tanýmlayýcý olarak nitelendirilen ve bireyi
+doðrudan tanýmlayan özniteliklerin (kimlik
+numarasý, pasaport numarasý vb.) yayýnlanan
+veriden çýkarýlmasý olarak tanýmlanýr.
+Kimliksizleþtirme, her ne kadar mahremiyet
+koruyucu bir yaklaþým olsa da yeterli seviyede bir
+koruma saðlayamadýðý Sweeney tarafýndan yapýlan
+araþtýrmada [15] gösterilmiþtir. Sweeney yaptýðý
+bu çalýþmada, kimliksiz saðlýk verilerini oy verileri
+ile cinsiyet, posta kodu ve doðum tarihi
+öznitelikleri üzerinde eþleþtirerek Amerika
+nüfusunun %87’sinin kimlik bilgilerinin ifþa
+edilebileceði göstermiþtir. Benzer baþka bir olayda
+ise 2006 yýlýnda AOL firmasý 650 bin kullanýcýsýna
+ait 20 milyon arama sorgusu verisini kullanýcý
+kimliði ve IP numarasý bilgilerini silip
+kimliksizleþtirerek yayýnlamýþ, ancak birkaç gün
+içerisinde bu sorgularýn kimlere ait olduðu
+araþtýrmacýlar tarafýndan tespit edilmiþtir [12, 16].
+Yukarýda belirtilen örnek durumlar dikkate
+alýndýðýnda, kimliksizleþtirme yönteminin veri
+mahremiyetini tam olarak koruyamadýðý
+belirlenmiþ ve bundan dolayý mahremiyet
+koruyucu yeni yaklaþýmlara ihtiyaç duyulduðu
+raporlanmýþtýr. Bu ihtiyacý gidermek amacýyla
+literatürde k-Anonimlik [11], l-Çeþitlilik [12] ve
+t-Yakýnlýk [13] gibi daha güçlü mahremiyet
+koruma modelleri geliþtirilmiþtir. Ancak özellikle
+geliþen teknoloji, artan bilgi ve veri kaynaklarý ve
+verinin elde edilme yöntemlerinin güçlenmesiyle
+beraber, kiþiler hakkýnda elde edilebilecek arka
+plan bilgilerinin de elde edilmesi kolay hale
+gelmiþtir. Böylesi bir durumun getirdiði en önemli
+dezavantaj ise kiþisel verilerin ifþa riskinin
+artmasýdýr.
+Kiþiler hakkýnda çok miktarda arka plan bilgisine
+sahip olan bir saldýrganýn, kiþiyi ifþa etme ihtimali
+de artmaktadýr. Böylesi bir saldýrýyý engellemede
+yukarýda belirtilen üç koruma modelinin zayýf
+kaldýðýný tespit eden Dwork ve ark. [14],
+diferansiyel mahremiyet modelini önermiþlerdir.
+Bu çalýþmanýn  ikinci bölümünde  veri
+mahremiyetini hedef alan saldýrýlar açýklanmýþ,
+üçüncü bölümünde veri mahremiyetini koruma
+modelleri sunulmuþ, dördüncü bölümünde
+ve diferansiyel mahremiyet kavramý açýklanmýþ,
+beþinci bölümde derin öðrenmede diferansiyel
+mahremiyeti uygulayan çalýþmalar özetlenerek
+karþýlaþtýrýlmýþ, altýncý bölümde derin öðrenmede
+diferansiyel mahremiyeti uygulama türleri
+sunulmuþ ve son bölümde ise sonuç ve
+deðerlendirmelere yer verilmiþtir.

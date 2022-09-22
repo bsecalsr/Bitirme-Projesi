@@ -1,0 +1,193 @@
+
+I.GÝRÝÞ
+Roma hukukunda, "tahta üzerine yapýlan resmin
+mülkiyeti, resmi yapana deðil, tahta sahibine aittir"
+denilerek, gayri maddi mallarýn mülkiyeti
+tanýnmamýþtýr. Sonralarý matbaanýn icadýyla,
+basýlan eserlerin sahibi olarak matbaacýlar kabul
+edilmiþ ve sahip olduklarý hakka “Owner of Copy”,
+“Right of Copy” ya da günümüzdeki adýyla
+“Copyright” denmiþtir [1]. © sembolüyle gösterilen
+Copyright, bir ürünün telif hakký ile korunduðunu
+gösteren temel iþaret olarak kabul edilmektedir.
+Eser sahipliðine iliþkin ilk düzenleme, 1709 yýlýnda
+kabul edilen “Kraliçe Anne Kanunu” (The Statute
+of Anne)’dur. Anne Kanununa dayanarak Amerika
+Birleþik Devletleri'nde 1790 Telif Hakký Yasasý
+kabul edildi. 1886'da, ulus devletler arasýnda telif
+hakkýnýn karþýlýklý tanýnmasýný saðlamak ve telif
+hakký korumasý için uluslararasý standartlarýn
+geliþtirilmesini teþvik etmek amacýyla Bern
+Konvansiyonu imzalandý. Üye devletlerin milli
+hukuklarýnda düzenlemeleri zorunlu asgari haklarý
+düzenleyen bu sözleþme, Türkiye dahil dünyanýn
+neredeyse tüm uluslarý tarafýndan kabul edilmiþtir
+ve hala yürürlüktedir. 1952’de kabul edilen
+Evrensel Telif Hakký Sözleþmesi (UCC - Universal
+Copyright Convention) ise Bern sözleþmesine
+alternatif olarak oluþturuldu.1960’larda
+yazýlýmlarýn yavaþ yavaþ yaygýnlaþmasýyla birlikte,
+Telif Hakký Bürosu'na ilk kayýt baþvurularý da
+yapýlmaya baþlandý. 1961’de Roma Sözleþmesi ve
+1967’de WIPO Kuruluþ Sözleþmesi imzalanýrken,
+1980’de Birleþik Devletler’de 1979 tarihli ve 17
+sayýlý Telif Hakký Kanununda (Copyright Law of
+the United States) deðiþiklik yapýlarak yazýlýmlarla
+ilgili düzenlemeler eklendi. 1995 yýlýnda,
+uluslararasý nitelikli TRIPS Anlaþmasý (Ticaretle
+Baðlantýlý Fikri Mülkiyet Haklarý – Trade Related
+Aspects of Intellectual Property Rights) kabul
+edildi. Nesne ve kaynak kodu açýsýndan bilgisayar
+programlarýnýn Bern Konvansiyonu kapsamýnda
+edebi eserler altýnda korunacaðýný belirtmesi
+açýsýndan TRIPS anlaþmasý önemli bir anlaþma
+olarak kabul edilmektedir. Dünya Fikri Mülkiyet
+Örgütü (WIPO - World Ýntellectual Property
+Organization) bünyesinde 1996’da WIPO Telif
+    
+Haklarý Anlaþmasý (WCT - Copyright Treaty),
+1998’de Dijital Binyýl Telif Hakký Yasasý (Digital
+Millennium Copyright Act – DMCA), 2009’da ise
+1991 tarihli AB Bilgisayar Programlarýnýn Hukuki
+Korunmasý Hakkýnda Yönergeyi (Council Directive
+91/250/EEC Legal Protection of Computer
+Programs) mülga eden ayný isimli Direktif
+2009/24/EC kabul edilmiþtir.
+Türkiye’de ise; Osmanlý döneminde telif hakkýyla
+ilgili ilk hukuki düzenleme 1857 tarihli Telif
+Nizamnamesidir. Gerçek anlamda ilk fikir ve sanat
+eserleri kanunu olan “Hakký Telif Kanunu” 8 Mayýs
+1910 tarihinde çýkarýldý. Türkiye, 1995 yýlýnda ise
+Bern Sözleþmesi’ni kabul etti. 5846 sayýlý Fikir ve
+Sanat Eserleri Kanunu (FSEK) ise 1952 yýlýnda
+yürürlüðe girdi ve takip eden birkaç yýl boyunca
+deðiþikliðe uðrayarak güncellenmiþtir.
+Yazýlýmlar açýsýndan fikrî hukuk korumasýnýn tercih
+edilmesinin nedeni, fikrî hakkýn elde edilmesinin
+kolay olmasý ve uluslararasý anlaþmalarla kabul
+görmesidir. Fikrî hukuk korumasýnýn en önemli
+özelliði fikrî ürünün, sahibinin hususiyetini taþýmasý
+durumunda baþkaca hiçbir þekil þartýna gerek
+olmaksýzýn yaratýlma anýndan itibaren korumadan
+yararlanabilmesi ve tescil zorunluluðunun
+bulunmamasýdýr [2]. Tüm bu avantajlarýnýn yaný
+sýra fikrî hukukun düþünceyi deðil bunun ifade
+ediliþ þeklini korumasý, yazýlýmlarýn bazý
+unsurlarýnýn koruma kapsamý dýþýnda býrakýlmasý ve
+patent ile haksýz rekabet hukukuna oranla koruma
+kapsamýnýn daha sýnýrlý oluþu, fikrî hukuk
+korumasýnýn dezavantajlarýdýr [3], [4].
+Yazýlýmlarýn hangi unsurlarýnýn FSEK kapsamýnda
+koruma altýna alýndýðý, kanunda açýkça
+düzenlenmiþtir. Bu kapsamda, ilerleyen bölümlerde
+de detaylý þekilde açýklandýðý üzere, hazýrlýk
+çalýþmalarý, program akýþý ile nesne ve kaynak
+kodlarý korunurken; düþünceler ve ilkeler ile
+algoritma ve arayüzler koruma kapsamý dýþýnda
+býrakýlmýþtýr. Bununla birlikte, hazýrlýk çalýþmalarý
+olarak ifade edilen ibarenin içine hangi kavramlarýn
+girdiði konusunda kanunda herhangi bir açýklýk
+bulunmamaktadýr.
+Açýk kaynak kod kullanýmý programcýnýn þahsýna
+ait özellikleri programa yansýtmasýný
+ 
+güçleþtirmektedir, çünkü yazýlýmlar daha çok farklý
+kaynaklardan alýnan kodlarýn  derlenmesi
+þeklindedir [5]. Her ne kadar kaynak kodlarý
+FSEK’e göre koruma kapsamýnda bulunuyor olsa
+da, hususiyet þartýný taþýmadýðý iddia edilen açýk
+kaynak kodlarýnýn, koruma kapsamý dýþýna
+çýkabileceði sonucu çýkarýlabilecektir. Diðer
+taraftan, yazýlýmlarýn ana unsurlarýný oluþturan
+algoritmalarýn ve akýþ þemalarýnýn korumadan
+yararlanýp yararlanamayacaðý noktasýnda bazý soru
+iþaretleri bulunmaktadýr; çünkü akýþ þemalarýnýn
+eser olarak deðerlendirilip,algoritmalarýn
+deðerlendirilmemesi konusundaki eksikliðin,
+mevzuat anlamýnda gerekli düzenlemelerin
+yapýlmasý ile giderilmesi gerekmektedir [5].
+Lisans Sözleþmesi ile mali haklarý kullanma
+yetkisinin devredildiði durumlarda, lisans alan
+kiþinin Tecavüzün Durdurulmasý Davasý açýp
+açamayacaðý hususunda FSEK’te herhangi bir
+hüküm bulunmadýðý gibi, doktrinde de farklý
+düþünceler bulunmaktadýr. Lisans sahibinin, sahip
+olduðu yetkileri kullanmasýný engelleyen, hem
+lisans verenin hem de üçüncü kiþilerin eylemlerine
+karþý, bizzat dava açma hakkýna sahip olduðu kabul
+edilmelidir [6]. Lisans verilmiþ olsa bile, mali
+haklarý kullanma yetkisi eser veya hak sahibinin
+malvarlýðýnda kalmaya devam edeceðinden, onlarýn
+da ayrýca dava açmalarýnda herhangi bir sakýnca
+bulunmadýðý ileri sürülmektedirler [7].
+Yazýlýmlar ve bilgisayar programlarý geliþen
+ihtiyaçlar doðrultusunda, teknolojik geliþmelerin
+cazibesi ve yaratýcýlýðýn sonsuzluðu neticesinde
+daha geniþ bir kavram olan Yapay Zekânýn
+oluþmasýna sebep olmuþtur. Ýlk defa Amerikalý
+bilgisayar bilimci John McCarthy tarafýndan ortaya
+atýlmýþ olan Yapay Zekâ en genel anlamda,
+algýlama, öðrenme, iletiþim kurma, yaratýcýlýk, karar
+verme, sonuç çýkarma, geliþtirme, gibi normalde
+insan zekâsýný gerektiren iþlevleri yerine getirebilen
+sistemler olarak tanýmlanmaktadýr [8].
+Yapay Zekâ, Makine Öðrenmesi ve Derin Öðrenme
+olmak üzere iki tür öðrenme yöntemi
+kullanmaktadýr. Makine öðrenimi terimi, temelde
+bir algoritma ailesini açýklamak için kullanýlmakta
+olup, söz konusu algoritma ailesi makinenin veri
+almasýný, bu verileri sýnýflandýrmasýný ve bu
+verilerden bir sonuç çýkarmasýný saðlamaktadýr [9].
+Akýllý algoritmalarýn geliþiminin yapay zekâ
+kavramýný oluþturmasý sonucunda, bu kavramýn
+hukuki meselelerde nereye dahil edileceði, kiþilik
+durumunun nasýl belirleneceði, FSEK nazarýnda
+eser olarak kabul edilip edilemeyeceði ve telif
+korumasýndan yararlanýp yararlanmayacaðý
+noktasýnda birçok soruyu da beraberinde
+getirmektedir. Ayný durum, Doðal Dil iþleme, Veri
+madenciliði gibi yapay zekâ ve makine
+öðrenmesiyle yakýn temasta bulunan alanlar için de
+kuþkusuz ki gündeme gelecektir. Yapay zekâyý
+üreten gerçek kiþinin diðer þartlarý taþýdýðý taktirde
+eser sahibi olacaðý konusunda herhangi bir kuþku
+bulunmazken, tam otonom bir yapay zekâ
+tarafýndan üretilen ürünlerin eser olarak kabul edilip
+edilemeyeceði noktasýnda tartýþmalarýn yaþanmasý
+þaþýrtýcý olmayacaktýr. Modern hukuk sistemlerinde
+haklara ve borçlara sahip olabilecek varlýklar,
+gerçek ve tüzel kiþiler olarak belirlenmiþtir. FSEK
+kapsamýnda eser sahibi olabilme koþullarýndan
+birinin gerçek kiþi olmak olduðu düþünüldüðünde,
+yapay zekânýn bir gerçek kiþi olarak tanýmlanmasý
+mümkün olamayacaðýndan, ayrý bir kiþilik kavramý
+ile ifade edilmesi gerektiðine iliþkin doktrinde farklý
+görüþler savunulmaya baþlanmýþtýr.
+FSEK, yazýlýmlar açýsýndan korunan ve
+korunmayan hususlar baðlamýnda birçok eksiklik
+barýndýrmakta olup, teknolojik geliþmeler
+neticesinde daha birçok yeni soru iþaretinin
+oluþacaðý da bir gerçektir. Çünkü hukuk,
+çoðunlukla teknolojik yeniliklerin gerisinde
+kalmakta ve güncelemelere yetiþememektedir. Her
+bir yenilik, yargýlamaya yansýyan somut olayda
+farklýlýklar oluþturmakta ve çoðu zaman kanun
+hükümleri sorulan sorularý cevapsýz ve oluþan
+sorunlarý çözümsüz býrakabilmektedir. Bu
+baðlamda, yazýlýmlarýn korunmasý konusunda,
+teknik bilgilerin ve kurallarýn açýk ve net þekilde
+düzenlendiði güncel kanun hükümlerine ihtiyaç her
+geçen gün artmaktadýr.
+Yazýlýmlarýn korunmasý konusunda deðerlendirme
+yapmak, eksiklikleri tespit ederek çözüm önerileri
+sunmak amacýyla hazýrlanan bu makalenin ilerleyen
+bölümlerinde, koruma kapsamýnýn belirlenmesi
+ 
+amacýyla öncelikle yazýlým ve program kavramlarý
+tanýtýlarak, her bir yazýlým unsurunun korunma
+durumundan bahsedilmiþtir. Sonraki bölümlerde
+telif hakký konusuna giriþ yapýlarak, hak
+sahipliðinin sýnýrlarý çizilmiþ, eser sahibinin sahip
+olduðu maddi ve manevi haklara deðinilmiþtir. En
+son kýsýmda ise konuyla ilgili deðerlendirmeler
+yapýlarak, önerilerde bulunulmuþtur.

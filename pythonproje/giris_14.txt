@@ -1,0 +1,93 @@
+
+Keywords: Anonymization; Data privacy; Data population; Personal data protection, Privacy awareness; Privacy preserving data sharing; Privacy models; Privacy attacks.
+I. GÝRÝÞ (INTRODUCTION)
+Günlük yaþamýn ve iþ hayatýnýn ayrýlmaz parçasý
+olan elektronik uygulamalarýn kiþisel (sosyal
+medya, oyunlar, sayýsal asistanlar, vb.) ve
+kurumsal (saðlýk, nüfus, finans, eðitim, yerel
+yönetimler, mülkiyet, vb.) alandaki kullanýmlarý
+ 
+ÖZET
+hýzla yaygýnlaþmaktadýr [1]. Kurumsal veya
+kiþisel amaçlara göre belirli bir iþin yerine
+getirilmesiyle baðlantýlý olarak farklý
+gerekliliklere (kanuni, sözleþme, açýk rýza, vb.)
+göre günlük ve iþ hayatýnýn düzen içinde
+sürdürülmesi, hizmetlerin  etkin  biçimde
+sunulmasý, geliþtirilmesi, daðýtýmý ve
+ 
+pazarlanmasý amacýyla veriler çoðunlukla siber
+uygulamalar aracýlýðýyla toplanmaktadýr.
+Toplanan bu verilerin iþlenmesi gerçek kiþilere,
+kurumlara ve araþtýrmacýlara önemli fýrsatlar
+sunarken beraberinde yeni tehditleri, tehlikeleri
+ve sorumluluklarý da getirmektedir [2]. Kiþileri
+doðrudan veya dolaylý olarak tanýmlayan kiþisel
+verilerin de paylaþýlan veriler içerisinde olmasý
+mahremiyet koruyucu tedbirlerin alýnmasýný
+zorunlu hale getirmektedir. Mahremiyet
+koruyucu önlemlerin alýnmasýnda sadece verisi
+iþlenen gerçek kiþilerin korunmasý deðil ayný
+zamanda paylaþýlacak verinin taraflara
+saðlayacaðý faydanýn da dikkate alýnmasý
+gerekmektedir.  Veri mahremiyeti,veri
+sahiplerinin mahremiyeti ile veri paylaþýmýnýn
+taraflara saðlayacaðý fayda arasýndaki en iyi
+dengeyi bulmaya çalýþan zor bir problemdir [3].
+Mahremiyet bilincinin oluþmamasý, önlemlerin
+yeterli düzeyde alýnmamasý birçok mahremiyet
+odaklý saldýrýya davet çýkarmaktadýr. Mahremiyet
+saldýrýlarý, kiþisel verilerin hukuka aykýrý olarak
+iþlenmesiyle gerçek kiþilerin ayrýmcýlýða veya
+maðduriyete uðramasýna, kurum, kuruluþ ve
+ülkelerin zarara uðramasýna yol açmaktadýr. 1990
+yýlýnda ABD’de sayým uygulamasýyla toplanan
+cinsiyet, posta kutusu ve doðum tarihi gibi
+doðrudan kiþileri tanýmlamayan verilerin
+kullanýlarak ABD nüfusunun %87’sinin
+kimliklerinin tespit edilebileceði Sweeney
+tarafýndan raporlanmýþtýr [4].
+ABD’de 37 eyaletteki saðlýk bilgilerinin
+toplanmasý için görevlendirilen ABD Saðlýk
+Kuruluþlarý Birliði (NAHDO) 1996 yýlýnda
+önemli bir mahremiyet saldýrýsýna maruz
+kalmýþtýr. Saldýrganlar hasta bilgileri ile daha
+önce yayýnlanan seçmen kayýt listeleri arasýnda
+baðlantý kurarak gerçek kiþilerin kimliklerini ve
+özel nitelikli kiþisel verilerini ifþa etmiþlerdir
+[5,6]. 2006 yýlýnda AOL 20 milyon web
+sorgusunu içeren 650 bin kullanýcýnýn 3 aylýk
+arama kayýtlarý anonim kimlik numarasýyla
+araþtýrmacýlar için yayýnlamýþ ancak yayýnlanan
+kayýtlardan kiþilerin kimliklerine ulaþýlmýþtýr
+[3,7]. Dünyada olduðu gibi ülkemizde de yeterli
+önlemler alýnmamasý, mahremiyet bilinci
+eksikliði ve kiþisel verilerin korunmamasýna
+baðlý olarak veri ihlalleri yaþanmaktadýr [8,9].
+Veri ihlalleri, gerçek kiþilerin ayrýmcýlýða veya
+maðduriyete uðramasýndan toplumlarý ve ülkeleri
+hedef alan kitlesel tehditlere kadar geniþ bir
+alanda etkisini göstermekte ve sayýlarý artarak
+devam etmektedir. Mahremiyet odaklý veri
+ihlallerinin en aza indirgenmesi amacýyla mevcut
+saldýrýlarýn ve eksikliklerin analiz edilerek veri
+faydasý ihtiyaçlarýna göre yeni mahremiyet
+koruyucu modellere ihtiyaç duyulmaktadýr [10].
+Veri mahremiyetinin korunmasýna yönelik teknik
+ve idari çalýþmalarýn yapýlarak kiþisel verilerin
+hukuka uygun olarak iþlenmesindeki
+uygunsuzluklarýn giderilmesi kiþisel verilerin
+korunmasý açýsýndan önemlidir.
+Bu çalýþmada, Bölüm 2’de veri mahremiyeti
+konusunda kapsamlý literatür incelemesi
+yapýlarak mevcut yöntemlerin güçlü ve zayýf
+yönleri ortaya koyulmuþ, Bölüm 3’de nitelik ve
+kimlik ifþasýna yönelik mahremiyetle ilgili
+saldýrýlar gözden geçirilmiþ, Bölüm 4’de veri
+faydasýnýn ölçülmesine yönelik metrikler
+incelenmiþ, Bölüm 5’de kayýt çoðaltma
+yöntemiyle veri mahremiyetinin korunmasýna
+yönelik yeni bir yaklaþým sunulmuþ, Bölüm 6’da
+ise bu çalýþmanýn sonuç ve deðerlendirmelerine
+yer verilerek gelecekteki çalýþmalar hakkýnda
+bilgi verilmiþtir.
